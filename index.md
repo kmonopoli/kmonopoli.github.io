@@ -10,9 +10,9 @@ Romano, F.B., Rossi, K.C., Tang, Y., **Monopoli, K.R.**, Ross, J.L., Heuck, A.P.
 ## Conferences
 Monopoli, K.R., siRNA Screening Consortium, Korkin, D., Khvorova, A. Predicting siRNA Silencing Efficacy using Supervised Machine Learning. Poster presentation at the RNA Therapeutics Symposium; 2021 June 28; Worcester, MA. [[poster]](https://vepimg.b8cdn.com/uploads/vjfnew/4489/content/images/1622548685rti-poster-kathryn-monopoli-pdf1622548685.pdf)
 
-Monopoli, K.R., Heuck, A.P. PopB and PopD interact simultaneously when forming the putative translocon in the Pseudomonas aeruginosa Type III Secretion System. Poster presentation at the Molecular and Cellular Biology Program Annual Retreat; 2015 Feb 28; Amherst, MA. [[abstract]](https://www.cell.com/biophysj/comments/S0006-3495(14)01752-4)
+Monopoli, K.R., Heuck, A.P. PopB and PopD interact simultaneously when forming the putative translocon in the Pseudomonas aeruginosa Type III Secretion System. Poster presentation at the Molecular and Cellular Biology Program Annual Retreat; 2015 Feb 28; Amherst, MA. 
 
-Monopoli, K.R., Heuck, A.P. Forming the Pseudomonas aeruginosa translocon requires simultaneous incorporation of PopB and PopD. Poster presentation at the Biophysical Society Annual Meeting; 2015 Feb 6-11; Baltimore, MD.
+Monopoli, K.R., Heuck, A.P. Forming the Pseudomonas aeruginosa translocon requires simultaneous incorporation of PopB and PopD. Poster presentation at the Biophysical Society Annual Meeting; 2015 Feb 6-11; Baltimore, MD. [[abstract]](https://www.cell.com/biophysj/comments/S0006-3495(14)01752-4)
 
 Monopoli, K.R., Romano, F.B., Heuck, A.P. Characterization of membrane-assembled Pseudomonas aeruginosa Type III Secretion System Translocon. Poster presented at the Models to Medicine Conference; 2014 May 2; Amherst, MA.
 
