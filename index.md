@@ -1,12 +1,12 @@
 ## Publications
-**Shmushkovich, T.,\* Monopoli, K.R.,\*** Homsy, D., Leyfer, D., Khvorova, A., Wolfson, A. (2018) Algorithm for predicting efficacy of chemically modified siRNAs. Submitted to Nucleic Acids Research. \***equally-contributing first authors**
+**Shmushkovich, T.,\* Monopoli, K.R.,\*** Homsy, D., Leyfer, D., Khvorova, A., Wolfson, A. (2018) Algorithm for predicting efficacy of chemically modified siRNAs. Submitted to Nucleic Acids Research. \***equally-contributing first authors** [[paper]](https://academic.oup.com/nar/article/46/20/10905/5085976)
 
-Romano, F.B., Rossi, K.C., Tang, Y., **Monopoli, K.R.**, Ross, J.L., Heuck, A.P. (2016) Type 3 Secretion translocators spontaneously assemble a hexadecameric transmembrane complex. Journal of Biological Chemistry.
+Romano, F.B., Rossi, K.C., Tang, Y., **Monopoli, K.R.**, Ross, J.L., Heuck, A.P. (2016) Type 3 Secretion translocators spontaneously assemble a hexadecameric transmembrane complex. Journal of Biological Chemistry. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5995524/)
 
 ## Conferences
-Monopoli, K.R., siRNA Screening Consortium, Korkin, D., Khvorova, A. Predicting siRNA Silencing Efficacy using Supervised Machine Learning. Poster presentation at the RNA Therapeutics Symposium; 2021 June 28; Worcester, MA.
+Monopoli, K.R., siRNA Screening Consortium, Korkin, D., Khvorova, A. Predicting siRNA Silencing Efficacy using Supervised Machine Learning. Poster presentation at the RNA Therapeutics Symposium; 2021 June 28; Worcester, MA. [[poster]](https://vepimg.b8cdn.com/uploads/vjfnew/4489/content/images/1622548685rti-poster-kathryn-monopoli-pdf1622548685.pdf)
 
-Monopoli, K.R., Heuck, A.P. PopB and PopD interact simultaneously when forming the putative translocon in the Pseudomonas aeruginosa Type III Secretion System. Poster presentation at the Molecular and Cellular Biology Program Annual Retreat; 2015 Feb 28; Amherst, MA.
+Monopoli, K.R., Heuck, A.P. PopB and PopD interact simultaneously when forming the putative translocon in the Pseudomonas aeruginosa Type III Secretion System. Poster presentation at the Molecular and Cellular Biology Program Annual Retreat; 2015 Feb 28; Amherst, MA. [[abstract]](https://www.cell.com/biophysj/comments/S0006-3495(14)01752-4)
 
 Monopoli, K.R., Heuck, A.P. Forming the Pseudomonas aeruginosa translocon requires simultaneous incorporation of PopB and PopD. Poster presentation at the Biophysical Society Annual Meeting; 2015 Feb 6-11; Baltimore, MD.
 
