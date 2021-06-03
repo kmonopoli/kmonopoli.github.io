@@ -57,20 +57,25 @@ BIOLOGY 311: **General Genetics** (UMass Amherst) - Teaching Assistant (Fall 201
 ## Research Experience
 **UMass Medical School & Worcester Polytechnic Institute** Ph.D. Candidate - Anastasia Khvorova and Dmitry Korkin Laboratories
 
-**Advirna** Asociate Scientist, Bioinformatics
+**Advirna** - Asociate Scientist, Bioinformatics
 
-**UMass Amherst** M.S. Research Assistantship - Alejandro Heuck Laboratory
+**UMass Amherst** - M.S. Research Assistantship - Alejandro Heuck Laboratory
 
-**Biogen** Intern, Antibody Discovery
+**Biogen** - Intern, Antibody Discovery
 
 ## Service
-Bright Spot Therapy Dogs - dog handler
-
-Hector Reyes House Worcester - volunteer
+[TouchTomorrow WPI](https://wp.wpi.edu/touchtomorrow/) - volunteer
 
 UMass STEM mentor
 
-Engineering Projects in Community Service - project manager
+Engineering Projects in Community Service - project manager, designer
+
+Bright Spot Therapy Dogs - handler
+
+Hector Reyes House - volunteer
+
+
+
 
 
 
