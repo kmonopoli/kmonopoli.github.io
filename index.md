@@ -75,7 +75,7 @@ BIOLOGY 311: **General Genetics** (UMass Amherst) - Teaching Assistant (Fall 201
 
 [Biogen Community Lab](https://www.biogen.com/en_us/community-lab-summer.html) - instructor
 
-Engineering Projects in Community Service - project manager, designer
+[Engineering Projects in Community Service](https://minesmagazine.com/2482/) - project manager, designer
 
 [Bright Spot Therapy Dogs](https://www.umass.edu/stemambassadors/mentoring-opportunities) - handler
 
