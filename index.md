@@ -33,6 +33,14 @@ Kappa Mu Epsilon - Honors Society for Mathematics
 
 Henry Little Award for Excellence in Research and Academics
 
+GO-MAP Graduate Top Scholars Award
+
+Biophyscal Society Travel Award
+
+Honors Research Grant (UMass Amherst)
+
+Research Assistant Fellowship (UMass Amherst)
+
 Phi Kappa Phi
 
 Presidential Scholarship - Colorado School of Mines
@@ -46,6 +54,23 @@ BIOCHEM 471: **Physical Chemistry** (UMass Amherst) - Teaching Assistant(Spring 
 
 BIOLOGY 311: **General Genetics** (UMass Amherst) - Teaching Assistant (Fall 2013)
 
+## Research Experience
+**UMass Medical School & Worcester Polytechnic Institute** Ph.D. Candidate - Anastasia Khvorova and Dmitry Korkin Laboratories
+
+**Advirna** Asociate Scientist, Bioinformatics
+
+**UMass Amherst** M.S. Research Assistantship - Alejandro Heuck Laboratory
+
+**Biogen** Intern, Antibody Discovery
+
+## Service
+Bright Spot Therapy Dogs - dog handler
+
+Hector Reyes House Worcester - volunteer
+
+UMass STEM mentor
+
+Engineering Projects in Community Service - project manager
 
 
 
