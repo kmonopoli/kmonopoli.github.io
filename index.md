@@ -1,4 +1,4 @@
-<img src="IMG_0468.jpg">
+<img src="photo_1.jpg">
 
 ## Publications
 **Shmushkovich, T.,\* Monopoli, K.R.,\*** Homsy, D., Leyfer, D., Khvorova, A., Wolfson, A. (2018) Algorithm for predicting efficacy of chemically modified siRNAs. Submitted to Nucleic Acids Research. \***equally-contributing first authors** [[paper]](https://academic.oup.com/nar/article/46/20/10905/5085976)
