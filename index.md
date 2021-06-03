@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## Publications
+**Shmushkovich, T.,\* Monopoli, K.R.,\*** Homsy, D., Leyfer, D., Khvorova, A., Wolfson, A. (2018) Algorithm for predicting efficacy of chemically modified siRNAs. Submitted to Nucleic Acids Research. \***equally-contributing first authors**
 
-You can use the [editor on GitHub](https://github.com/kmonopoli/kmonopoli.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Romano, F.B., Rossi, K.C., Tang, Y., **Monopoli, K.R.**, Ross, J.L., Heuck, A.P. (2016) Type 3 Secretion translocators spontaneously assemble a hexadecameric transmembrane complex. Journal of Biological Chemistry.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Conferences
+Monopoli, K.R., siRNA Screening Consortium, Korkin, D., Khvorova, A. Predicting siRNA Silencing Efficacy using Supervised Machine Learning. Poster presentation at the RNA Therapeutics Symposium; 2021 June 28; Worcester, MA.
 
-### Markdown
+Monopoli, K.R., Heuck, A.P. PopB and PopD interact simultaneously when forming the putative translocon in the Pseudomonas aeruginosa Type III Secretion System. Poster presentation at the Molecular and Cellular Biology Program Annual Retreat; 2015 Feb 28; Amherst, MA.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Monopoli, K.R., Heuck, A.P. Forming the Pseudomonas aeruginosa translocon requires simultaneous incorporation of PopB and PopD. Poster presentation at the Biophysical Society Annual Meeting; 2015 Feb 6-11; Baltimore, MD.
 
-```markdown
-Syntax highlighted code block
+Monopoli, K.R., Romano, F.B., Heuck, A.P. Characterization of membrane-assembled Pseudomonas aeruginosa Type III Secretion System Translocon. Poster presented at the Models to Medicine Conference; 2014 May 2; Amherst, MA.
 
-# Header 1
-## Header 2
-### Header 3
+Monopoli, K.R., Romano, F.B., Heuck, A.P. Structural Studies of the Membrane Bound Translocon of the Pseudomonas aeruginosa Type III Secretion System. Poster presented at the Undergraduate Symposium for the American Chemical Society; 2014 April 26; Amherst, MA.
 
-- Bulleted
-- List
+Monopoli, K.R., Romano, F.B., Heuck, A.P. Characterization of the Pseudomonas aeruginosa Type III Secretion Translocon in Model Membranes. Poster presented at the Massachusetts Undergraduate Statewide Research Conference; 2014 April 25; Amherst, MA.
 
-1. Numbered
-2. List
+Monopoli, K.R., Romano, F.B., Heuck, A.P. PopB modulates the interaction of PopD with membranes. Poster presented at the UMass Homecoming Poster Session; 2013 Oct 18; Amherst, MA.
 
-**Bold** and _Italic_ and `Code` text
+Monopoli, K.R., Pearse, B.R. Generation of a repertoire of antibodies for clinical assay development by phage display. Poster presented at Biogen Intern Poster Session; 2013 Aug 22; Cambridge, MA.  
 
-[Link](url) and ![Image](src)
-```
+## Fellowships and Awards
+Fuller Scholarship
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Phi Beta Kappa
 
-### Jekyll Themes
+Kappa Mu Epsilon - Honors Society for Mathematics
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kmonopoli/kmonopoli.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Henry Little Award for Excellence in Research and Academics
 
-### Support or Contact
+Phi Kappa Phi
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Presidential Scholarship - Colorado School of Mines
+
+## Teaching
+CS 1101: Introduction to Programming Design (WPI) - Teaching Assistant (Fall 2019)
+
+CS 2102: Advanced Object-Oriented Design Concepts (WPI) - Teaching Assistant (Fall 2019)
+
+BIOCHEM 471: Physical Chemistry (UMass Amherst) - Teaching Assistant(Spring 2014)
+
+BIOLOGY 311: General Genetics (UMass Amherst) - Teaching Assistant (Fall 2013)
+
+
+
+
+
