@@ -24,6 +24,11 @@ Monopoli, K.R., Romano, F.B., Heuck, A.P. PopB modulates the interaction of PopD
 
 Monopoli, K.R., Pearse, B.R. Generation of a repertoire of antibodies for clinical assay development by phage display. Poster presented at Biogen Intern Poster Session; 2013 Aug 22; Cambridge, MA.  
 
+## Theses
+Monopoli, K.R. Advised by Prof. Alejandro Heuck. “Characterization of the Reconstituted and Native Pseudomonas aeruginosa Type III Secretion System Translocon”. Master's Thesis. University of Massachusetts, Amherst, September 2015. 
+
+Monopoli, K.R. Advised by Prof. Alejandro Heuck. “Characterization of the Pseudomonas aeruginosa Type III Secretion System Translocon in Model Membranes”. Undergraduate Thesis. University of Massachusetts, Amherst, May 2014. 
+
 ## Fellowships and Awards
 Fuller Scholarship
 
@@ -66,13 +71,15 @@ BIOLOGY 311: **General Genetics** (UMass Amherst) - Teaching Assistant (Fall 201
 ## Service
 [TouchTomorrow WPI](https://wp.wpi.edu/touchtomorrow/) - volunteer
 
-UMass STEM mentor
+[UMass STEM Ambassadors](https://www.umass.edu/stemambassadors/mentoring-opportunities) - mentor
+
+[Biogen Community Lab](https://www.biogen.com/en_us/community-lab-summer.html) - instructor
 
 Engineering Projects in Community Service - project manager, designer
 
-Bright Spot Therapy Dogs - handler
+[Bright Spot Therapy Dogs](https://www.umass.edu/stemambassadors/mentoring-opportunities) - handler
 
-Hector Reyes House - volunteer
+[Hector Reyes House](https://www.lahaworc.org) - volunteer
 
 
 
