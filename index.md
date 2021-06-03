@@ -60,13 +60,17 @@ BIOCHEM 471: **Physical Chemistry** (UMass Amherst) - Teaching Assistant(Spring 
 BIOLOGY 311: **General Genetics** (UMass Amherst) - Teaching Assistant (Fall 2013)
 
 ## Research Experience
-**UMass Medical School & Worcester Polytechnic Institute** Ph.D. Candidate - Anastasia Khvorova and Dmitry Korkin Laboratories
+**UMass Medical School & Worcester Polytechnic Institute** Ph.D. Candidate
+Advisors: Prof. Anastasia Khvorova and Prof. Dmitry Korkin
 
 **Advirna** - Asociate Scientist, Bioinformatics
+Advisor: Alexey Wolfson, Ph.D.
 
-**UMass Amherst** - M.S. Research Assistantship - Alejandro Heuck Laboratory
+**UMass Amherst** - M.S. Research Assistantship
+Advisor: Prof. Alejandro Heuck
 
 **Biogen** - Intern, Antibody Discovery
+Host: Bradley Pearse, Ph.D.
 
 ## Service
 [TouchTomorrow WPI](https://wp.wpi.edu/touchtomorrow/) - volunteer
