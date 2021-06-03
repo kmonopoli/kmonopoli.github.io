@@ -34,13 +34,13 @@ Phi Kappa Phi
 Presidential Scholarship - Colorado School of Mines
 
 ## Teaching
-CS 1101: Introduction to Programming Design (WPI) - Teaching Assistant (Fall 2019)
+CS 1101: **Introduction to Programming Design** (WPI) - Teaching Assistant (Fall 2019)
 
-CS 2102: Advanced Object-Oriented Design Concepts (WPI) - Teaching Assistant (Fall 2019)
+CS 2102: **Advanced Object-Oriented Design Concepts** (WPI) - Teaching Assistant (Fall 2019)
 
-BIOCHEM 471: Physical Chemistry (UMass Amherst) - Teaching Assistant(Spring 2014)
+BIOCHEM 471: **Physical Chemistry** (UMass Amherst) - Teaching Assistant(Spring 2014)
 
-BIOLOGY 311: General Genetics (UMass Amherst) - Teaching Assistant (Fall 2013)
+BIOLOGY 311: **General Genetics** (UMass Amherst) - Teaching Assistant (Fall 2013)
 
 
 
