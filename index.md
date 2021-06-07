@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 <img src="photo_1.jpg" alt="drawing" width="400" align="left" style="display: block; margin: auto;" />
 
 I am a Ph.D candidate studying Bioinformatics in the [Quantitative and Computational Biosciences & Bioengineering](https://umassmed.edu/es/gsbs/current-students/computational-biomedical-sciences-and-engineering/) Joint Graduate Program at University of Massachusetts Medical School and Worcester Polytechnic Institute. I am advised by [Anastasia Khvorova](https://www.umassmed.edu/khvorovalab/) and [Dmitry Korkin](http://korkinlab.org). 
@@ -32,6 +34,8 @@ Monopoli, K.R., Pearse, B.R. Generation of a repertoire of antibodies for clinic
 Monopoli, K.R. Advised by Prof. Alejandro Heuck. “Characterization of the Reconstituted and Native Pseudomonas aeruginosa Type III Secretion System Translocon”. Master's Thesis. University of Massachusetts, Amherst, September 2015. 
 
 Monopoli, K.R. Advised by Prof. Alejandro Heuck. “Characterization of the Pseudomonas aeruginosa Type III Secretion System Translocon in Model Membranes”. Undergraduate Thesis. University of Massachusetts, Amherst, May 2014. 
+
+[Other Projects](https://github.com/kmonopoli)
 
 ## Fellowships and Awards
 Fuller Scholarship
