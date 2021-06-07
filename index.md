@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.svg">
+<link rel="shortcut icon" type="image/x-icon" href="favicon2.svg">
 
 <img src="photo_1.jpg" alt="drawing" width="400" align="left" style="display: block; margin: auto;" />
 
