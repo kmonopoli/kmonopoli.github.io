@@ -37,6 +37,33 @@ Monopoli, K.R. Advised by Prof. Alejandro Heuck. “Characterization of the Pseu
 
 [Other Projects](https://github.com/kmonopoli)
 
+## Patents
+Oligonucleotides for MAPT Modulation - US Utility Patent Application No. 62/991,405, 3/18/2020
+
+Oligonucleotides for SNCA Modulation - US Utility Patent Application No. 62/991,406, 3/18/2020
+
+Oligonucleotides for MSH3 Modulation - US Patent Application No. 63/012,603, 4/20/2020
+
+Oligonucleotides for MAPT Modulation - US Utility Patent Application No. 63/071,106, 8/27/2020
+
+Oligonucleotides for SNCA Modulation - US Utility Patent Application No. 63/071,115, 8/27/2020
+
+Oligonucleotides for SARS-CoV-2 Modulation - US Utility Patent Application No. 63/031,222, 5/28/2020
+
+Oligonucleotides for SARS-CoV-2 Modulation - US Utility Patent Application No. 63/084,817, 9/29/2020
+
+Oligonucleotides for MAPT Modulation - US Patent Application No. 17/204,480, 3/17/2021
+
+Oligonucleotides for MAPT Modulation - Intl Patent Application No. PCT/US2021/022688, 3/17/2021
+
+Oligonucleotides for SNCA Modulation - US Patent Application No. 17/204,483, 3/17/2021
+
+Oligonucleotides for SNCA Modulation - Intl Patent Application No. PCT/US2021/022748, 3/17/2021
+
+Oligonucleotides for SARS-CoV-2 Modulation - US Patent Application No. 17/333,839, 5/28/2021
+
+Oligonucleotides for SARS-CoV-2 Modulation - Intl Patent App No. PCT/US2021/035002, 5/28/2021
+
 ## Fellowships and Awards
 Fuller Scholarship
 
