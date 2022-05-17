@@ -108,9 +108,9 @@ GO-MAP Graduate Top Scholars Award
 
 Biophyscal Society Travel Award
 
-Honors Research Grant - UMass Amherst
+Honors Research Grant - University of Massachusetts Amherst
 
-Research Assistant Fellowship - UMass Amherst
+Research Assistant Fellowship - University of Massachusetts Amherst
 
 Phi Kappa Phi
 
