@@ -9,11 +9,22 @@ My research bridges biology with computer science to advance therapeutic develop
 I conducted my undergraduate studies at the Colorado School of Mines and the University of Massachusetts Amherst where I completed my BS summa cum laude. I completed my MS in the Laboratory of [Alejandro Heuck](https://people.biochem.umass.edu/heuck/research.html) at the University of Massachusetts Amherst. 
 
 ## Publications
+Tang, Q., Sousa, J., Echeverria, D., Fan, X., Hsueah, Y.C., Afshari, K., MeHugh, N., Cooper, D.A., Vangjeli, L., **Monopoli, K.R.**, Okamura K, Biscans A, Clauss A, Harris JE, Khvorova A. (2022) RNAi-based modulation of IFN-γ signaling in skin. Molecular Therapy.
+
 **Shmushkovich, T.,\* Monopoli, K.R.,\*** Homsy, D., Leyfer, D., Betancur-Boissel, M., Khvorova, A., Wolfson, A. (2018) Functional features defining the efficacy of cholesterol-conjugated, self-deliverable, chemically modified siRNAs. Nucleic Acids Research. \***equally-contributing first authors** [[paper]](https://academic.oup.com/nar/article/46/20/10905/5085976)
 
 Romano, F.B., Rossi, K.C., Tang, Y., **Monopoli, K.R.**, Ross, J.L., Heuck, A.P. (2016) Type 3 Secretion translocators spontaneously assemble a hexadecameric transmembrane complex. Journal of Biological Chemistry. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5995524/)
 
 ## Conferences
+
+Monopoli, K.R., Korkin, D., Khvorova, A. Trichotomous classification on small, limited datasets enables predictive model development for therapeutic small interfering RNA. Talk presented at the Intelligent Systems for Molecular Biology (ISMB); 2022 Jul 10; Madison, WI.
+
+Monopoli, K.R., Korkin, D., Khvorova, A. Evaluation-centric method for extracting base preferences from siRNA prediction models identifies features consistent with established mechanisms and is adaptable to examine any machine learning model. Talk presented at the RNA Therapeutics Symposium; 2022 Jun 22; Worcester, MA.
+
+Monopoli, K.R., Korkin, D., Khvorova, A.  Methods to apply and evaluate machine learning models on limited biological datasets through the lens of siRNA design. Invited talk presented at Oligonucleotide Therapeutics Society Seminar; virtual.
+
+Monopoli, K.R., Korkin, D., Khvorova, A. Data Partitioning to Enable Application of Machine Learning Models to Limited Biological Datasets Using SiRNA Design as an Example Case. Poster at the Oligonucleotide Therapeutics Society Meeting; Sep 2021; virtual.
+
 Monopoli, K.R., siRNA Screening Consortium, Korkin, D., Khvorova, A. Predicting siRNA Silencing Efficacy using Supervised Machine Learning. Poster presentation at the RNA Therapeutics Symposium; 2021 June 28; Worcester, MA. [[poster]](https://vepimg.b8cdn.com/uploads/vjfnew/4489/content/images/1622548685rti-poster-kathryn-monopoli-pdf1622548685.pdf)[[video overview]](https://vimeo.com/557558254)
 
 Monopoli, K.R., Heuck, A.P. PopB and PopD interact simultaneously when forming the putative translocon in the Pseudomonas aeruginosa Type III Secretion System. Poster presentation at the Molecular and Cellular Biology Program Annual Retreat; 2015 Feb 28; Amherst, MA. 
@@ -65,6 +76,8 @@ Oligonucleotides for SARS-CoV-2 Modulation - US Patent Application No. 17/333,83
 Oligonucleotides for SARS-CoV-2 Modulation - Intl Patent App No. PCT/US2021/035002, 5/28/2021
 
 ## Fellowships and Awards
+Poster Award – Oligonucleotide Therapeutics Society 2021 Annual Meeting
+
 Fuller Scholarship
 
 Phi Beta Kappa
