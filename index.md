@@ -9,7 +9,8 @@ My research bridges biology with computer science to advance therapeutic develop
 I conducted my undergraduate studies at the Colorado School of Mines and the University of Massachusetts Amherst where I completed my BS summa cum laude. I completed my MS in the Laboratory of [Alejandro Heuck](https://people.biochem.umass.edu/heuck/research.html) at the University of Massachusetts Amherst. 
 
 ## Publications
-Tang, Q., Sousa, J., Echeverria, D., Fan, X., Hsueah, Y.C., Afshari, K., MeHugh, N., Cooper, D.A., Vangjeli, L., **Monopoli, K.R.**, Okamura K, Biscans A, Clauss A, Harris JE, Khvorova A. (2022) RNAi-based modulation of IFN-γ signaling in skin. Molecular Therapy.
+Tang, Q., Sousa, J., Echeverria, D., Fan, X., Hsueah, Y.C., Afshari, K., MeHugh, N., Cooper, D.A., Vangjeli, L., **Monopoli, K.R.**, Okamura K, Biscans A, Clauss A, Harris JE, Khvorova A. (2022) RNAi-based modulation of IFN-γ signaling in skin. Molecular Therapy.[[paper]](https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(22)00249-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1525001622002490%3Fshowall%3Dtrue)
+
 
 **\*Shmushkovich, T., \*Monopoli, K.R.,** Homsy, D., Leyfer, D., Betancur-Boissel, M., Khvorova, A., Wolfson, A. (2018) Functional features defining the efficacy of cholesterol-conjugated, self-deliverable, chemically modified siRNAs. Nucleic Acids Research. \***equally-contributing first authors** [[paper]](https://academic.oup.com/nar/article/46/20/10905/5085976)
 
