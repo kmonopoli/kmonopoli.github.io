@@ -11,7 +11,6 @@ I conducted my undergraduate studies at the Colorado School of Mines and the Uni
 ## Publications
 Tang, Q., Sousa, J., Echeverria, D., Fan, X., Hsueah, Y.C., Afshari, K., MeHugh, N., Cooper, D.A., Vangjeli, L., **Monopoli, K.R.**, Okamura K, Biscans A, Clauss A, Harris JE, Khvorova A. (2022) RNAi-based modulation of IFN-γ signaling in skin. Molecular Therapy. [[paper]](https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(22)00249-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1525001622002490%3Fshowall%3Dtrue)
 
-
 **\*Shmushkovich, T., \*Monopoli, K.R.,** Homsy, D., Leyfer, D., Betancur-Boissel, M., Khvorova, A., Wolfson, A. (2018) Functional features defining the efficacy of cholesterol-conjugated, self-deliverable, chemically modified siRNAs. Nucleic Acids Research. \***equally-contributing first authors** [[paper]](https://academic.oup.com/nar/article/46/20/10905/5085976)
 
 Romano, F.B., Rossi, K.C., Tang, Y., **Monopoli, K.R.**, Ross, J.L., Heuck, A.P. (2016) Type 3 Secretion translocators spontaneously assemble a hexadecameric transmembrane complex. Journal of Biological Chemistry. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5995524/)
@@ -76,6 +75,24 @@ Oligonucleotides for SARS-CoV-2 Modulation - US Patent Application No. 17/333,83
 
 Oligonucleotides for SARS-CoV-2 Modulation - Intl Patent App No. PCT/US2021/035002, 5/28/2021
 
+## Teaching Experience
+CS 1101: **Introduction to Programming Design** (WPI) - Teaching Assistant (Fall 2019)
+
+CS 2102: **Advanced Object-Oriented Design Concepts** (WPI) - Teaching Assistant (Fall 2019)
+
+BIOCHEM 471: **Physical Chemistry** (UMass Amherst) - Teaching Assistant(Spring 2014)
+
+BIOLOGY 311: **General Genetics** (UMass Amherst) - Teaching Assistant (Fall 2013)
+
+## Research Experience
+**UMass Medical School & Worcester Polytechnic Institute** - Ph.D. Candidate, Prof. Anastasia Khvorova and Prof. Dmitry Korkin Laboratories
+
+**Advirna** - Asociate Scientist, Bioinformatics
+
+**UMass Amherst** - M.S. Research Assistantship, Prof. Alejandro Heuck Laboratory
+
+**Biogen** - Intern, Antibody Discovery
+
 ## Fellowships and Awards
 Poster Award – Oligonucleotide Therapeutics Society 2021 Annual Meeting
 
@@ -98,24 +115,6 @@ Research Assistant Fellowship - UMass Amherst
 Phi Kappa Phi
 
 Presidential Scholarship - Colorado School of Mines
-
-## Teaching
-CS 1101: **Introduction to Programming Design** (WPI) - Teaching Assistant (Fall 2019)
-
-CS 2102: **Advanced Object-Oriented Design Concepts** (WPI) - Teaching Assistant (Fall 2019)
-
-BIOCHEM 471: **Physical Chemistry** (UMass Amherst) - Teaching Assistant(Spring 2014)
-
-BIOLOGY 311: **General Genetics** (UMass Amherst) - Teaching Assistant (Fall 2013)
-
-## Research Experience
-**UMass Medical School & Worcester Polytechnic Institute** - Ph.D. Candidate, Prof. Anastasia Khvorova and Prof. Dmitry Korkin Laboratories
-
-**Advirna** - Asociate Scientist, Bioinformatics
-
-**UMass Amherst** - M.S. Research Assistantship, Prof. Alejandro Heuck Laboratory
-
-**Biogen** - Intern, Antibody Discovery
 
 ## Service
 [TouchTomorrow WPI](https://wp.wpi.edu/touchtomorrow/) - volunteer
