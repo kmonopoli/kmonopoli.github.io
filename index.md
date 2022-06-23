@@ -2,11 +2,11 @@
 
 <img src="photo_2.jpg" alt="drawing" width="300" align="left" style="display: block; margin: auto;" />
 
-I am a Ph.D candidate studying Bioinformatics in the [Quantitative and Computational Biosciences & Bioengineering](https://umassmed.edu/es/gsbs/current-students/computational-biomedical-sciences-and-engineering/) Joint Graduate Program at University of Massachusetts Medical School and Worcester Polytechnic Institute. I am advised by [Anastasia Khvorova](https://www.umassmed.edu/khvorovalab/) and [Dmitry Korkin](http://korkinlab.org). 
+I am a Ph.D. candidate studying Bioinformatics in the [Quantitative and Computational Biosciences & Bioengineering](https://umassmed.edu/es/gsbs/current-students/computational-biomedical-sciences-and-engineering/) Joint Graduate Program at University of Massachusetts Medical School and Worcester Polytechnic Institute. I am advised by [Anastasia Khvorova](https://www.umassmed.edu/khvorovalab/) and [Dmitry Korkin](http://korkinlab.org). 
 
 My research bridges biology with computer science to advance therapeutic development and, more generally, expand our understanding of biological processes. My primary focus is on applying machine learning techniques to probe the small interfering RNA (siRNA) gene silencing mechanism. I am passionate about increasing access to advanced computational algorithms for life science researchers without computational training, through developing easy-to-use computational tools that do not require any computer programming knowledge. 
 
-I conducted my undergraduate studies at the Colorado School of Mines and the University of Massachusetts Amherst where I completed my BS summa cum laude. I completed my MS in the Laboratory of [Alejandro Heuck](https://people.biochem.umass.edu/heuck/research.html) at the University of Massachusetts Amherst. 
+I conducted my undergraduate studies at the Colorado School of Mines and the University of Massachusetts Amherst where I completed my B.S. *summa cum laude*. I completed my M.S. in Biochemistry in the Laboratory of [Alejandro Heuck](https://people.biochem.umass.edu/heuck/research.html) at the University of Massachusetts Amherst. 
 
 # Experience
 **Ph.D. Candidate** - Program in Quantitative and Computational Biosciences & Bioengineering  
