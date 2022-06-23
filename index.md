@@ -8,8 +8,9 @@ My research bridges biology with computer science to advance therapeutic develop
 
 I conducted my undergraduate studies at the Colorado School of Mines and the University of Massachusetts Amherst where I completed my BS summa cum laude. I completed my MS in the Laboratory of [Alejandro Heuck](https://people.biochem.umass.edu/heuck/research.html) at the University of Massachusetts Amherst. 
 
-## Publications
 
+
+## Publications
 Hariharan, V.N., Shin, M., Chang, C., O’Reilly, D., Biscans, A., Yamada, K., Guo, Z., Somasundaran, M., Tang, Q., **Monopoli, K.R.**, Krishnamurthy, P.M., Devi, G., McHugh, N., Cooper, D.A., Echeverria, D., Cruz, J., Chan, I.L., Liu, P., Lim, S., McConnell, J., Singh, S.P., Hildebrand, S., Sousa, J., Davis, S.M., Kennedy, Z., Ferguson, C., Godinho, B.M.D.C., Thillier, Y., Caiazzi, J., Ly, S., Muhuri, M., Kelly, K., Humphries, F., Cousineau, A., Parsi, K.M., Li, Q., Wang, Y., Maehr, R., Gao, G., Korkin, D., McDougall, W.M., Korkin, D., Fitzgerald, K.A., Finberg, R.W., Wang, J.P., Watts, J.K., Khvorova, A. (2022) Divalent siRNAs are bioavailable in the lung and efficiently block SARS-CoV-2 infection. In review, Nature Biotechnology.
 
 Tang, Q., Sousa, J., Echeverria, D., Fan, X., Hsueah, Y.C., Afshari, K., MeHugh, N., Cooper, D.A., Vangjeli, L., **Monopoli, K.R.**, Okamura K, Biscans A, Clauss A, Harris JE, Khvorova A. (2022) RNAi-based modulation of IFN-γ signaling in skin. Molecular Therapy. [[paper]](https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(22)00249-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1525001622002490%3Fshowall%3Dtrue)
@@ -19,7 +20,6 @@ Tang, Q., Sousa, J., Echeverria, D., Fan, X., Hsueah, Y.C., Afshari, K., MeHugh,
 Romano, F.B., Rossi, K.C., Tang, Y., **Monopoli, K.R.**, Ross, J.L., Heuck, A.P. (2016) Type 3 Secretion translocators spontaneously assemble a hexadecameric transmembrane complex. Journal of Biological Chemistry. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5995524/)
 
 ## Talks
-
 Monopoli, K.R., Korkin, D., Khvorova, A. Trichotomous classification on small, limited datasets enables predictive model development for therapeutic small interfering RNA. Talk presented at the Intelligent Systems for Molecular Biology (ISMB); 2022 Jul 10; Madison, WI.
 
 Monopoli, K.R., Korkin, D., Khvorova, A. Evaluation-centric method for extracting base preferences from siRNA prediction models identifies features consistent with established mechanisms and is adaptable to examine any machine learning model. Talk presented at the RNA Therapeutics Symposium; 2022 Jun 22; Worcester, MA. [[recorded talk]](https://youtu.be/f_4O-Cq9PG0)
@@ -27,7 +27,6 @@ Monopoli, K.R., Korkin, D., Khvorova, A. Evaluation-centric method for extractin
 Monopoli, K.R., Korkin, D., Khvorova, A.  Methods to apply and evaluate machine learning models on limited biological datasets through the lens of siRNA design. Invited talk presented at Oligonucleotide Therapeutics Society Seminar.
 
 ## Conference Posters
-
 Monopoli, K.R., Korkin, D., Khvorova, A. Trichotomous classification on small, limited datasets enables predictive model development for therapeutic small interfering RNA. Poster presented at the Intelligent Systems for Molecular Biology (ISMB); 2022 Jul 10; Madison, WI.
 
 Monopoli, K.R., Korkin, D., Khvorova, A. Data Partitioning to Enable Application of Machine Learning Models to Limited Biological Datasets Using SiRNA Design as an Example Case. Poster at the Oligonucleotide Therapeutics Society Meeting; Sep 2021; virtual. [[recorded poster presentation]](https://youtu.be/xtk9x210RmE)
@@ -53,7 +52,7 @@ Monopoli, K.R. Advised by Prof. Alejandro Heuck. “Characterization of the Reco
 
 Monopoli, K.R. Advised by Prof. Alejandro Heuck. “Characterization of the Pseudomonas aeruginosa Type III Secretion System Translocon in Model Membranes”. Undergraduate Thesis. University of Massachusetts, Amherst, May 2014. 
 
-[Other Projects](https://github.com/kmonopoli)
+## [Other Projects](https://github.com/kmonopoli)
 
 ## Patents
 Oligonucleotides for MAPT Modulation - US Utility Patent Application No. 62/991,405, 3/18/2020
