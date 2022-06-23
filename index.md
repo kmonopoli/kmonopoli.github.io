@@ -10,8 +10,11 @@ I conducted my undergraduate studies at the Colorado School of Mines and the Uni
 
 # Experience
 **University of Massachusetts Medical School & Worcester Polytechnic Institute**
+
 Ph.D. Candidate, Program in Quantitative and Computational Biosciences & Bioengineering
+
 Advised by Anastasia Khvorova and Dmitry Korkin 
+
 RNA Therapeutics Institute & Bioinformatics and Computational Biology Department
 
 **Advirna**
