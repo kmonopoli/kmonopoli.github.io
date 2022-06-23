@@ -8,6 +8,16 @@ My research bridges biology with computer science to advance therapeutic develop
 
 I conducted my undergraduate studies at the Colorado School of Mines and the University of Massachusetts Amherst where I completed my BS summa cum laude. I completed my MS in the Laboratory of [Alejandro Heuck](https://people.biochem.umass.edu/heuck/research.html) at the University of Massachusetts Amherst. 
 
+## Research Experience
+**UMass Medical School & Worcester Polytechnic Institute** - Ph.D. Candidate, Prof. Anastasia Khvorova and Prof. Dmitry Korkin Laboratories
+
+**Advirna** - Asociate Scientist, Bioinformatics
+
+**UMass Amherst** - M.S. Research Assistantship, Prof. Alejandro Heuck Laboratory
+
+**Biogen** - Intern, Antibody Discovery
+
+
 # Publications
 **\*Shmushkovich, T., \*Monopoli, K.R.,** Homsy, D., Leyfer, D., Betancur-Boissel, M., Khvorova, A., Wolfson, A. (2018) Functional features defining the efficacy of cholesterol-conjugated, self-deliverable, chemically modified siRNAs. Nucleic Acids Research. \***equally-contributing first authors** [[paper]](https://academic.oup.com/nar/article/46/20/10905/5085976)
 
@@ -88,14 +98,7 @@ BIOCHEM 471: **Physical Chemistry** (UMass Amherst) - Teaching Assistant(Spring 
 
 BIOLOGY 311: **General Genetics** (UMass Amherst) - Teaching Assistant (Fall 2013)
 
-## Research Experience
-**UMass Medical School & Worcester Polytechnic Institute** - Ph.D. Candidate, Prof. Anastasia Khvorova and Prof. Dmitry Korkin Laboratories
 
-**Advirna** - Asociate Scientist, Bioinformatics
-
-**UMass Amherst** - M.S. Research Assistantship, Prof. Alejandro Heuck Laboratory
-
-**Biogen** - Intern, Antibody Discovery
 
 ## Fellowships and Awards
 Poster Award – Oligonucleotide Therapeutics Society 2021 Annual Meeting
