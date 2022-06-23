@@ -8,7 +8,7 @@ My research bridges biology with computer science to advance therapeutic develop
 
 I conducted my undergraduate studies at the Colorado School of Mines and the University of Massachusetts Amherst where I completed my BS summa cum laude. I completed my MS in the Laboratory of [Alejandro Heuck](https://people.biochem.umass.edu/heuck/research.html) at the University of Massachusetts Amherst. 
 
-## Research Experience
+# Research Experience
 **UMass Medical School & Worcester Polytechnic Institute** - Ph.D. Candidate, Prof. Anastasia Khvorova and Prof. Dmitry Korkin Laboratories
 
 **Advirna** - Asociate Scientist, Bioinformatics
