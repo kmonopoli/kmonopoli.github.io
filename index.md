@@ -1,6 +1,6 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon2.svg">
 
-<img src="photo_2.jpg" alt="drawing" width="420" align="left" style="display: block; margin: auto;" />
+<img src="photo_2.jpg" alt="drawing" width="300" align="left" style="display: block; margin: auto;" />
 
 I am a Ph.D candidate studying Bioinformatics in the [Quantitative and Computational Biosciences & Bioengineering](https://umassmed.edu/es/gsbs/current-students/computational-biomedical-sciences-and-engineering/) Joint Graduate Program at University of Massachusetts Medical School and Worcester Polytechnic Institute. I am advised by [Anastasia Khvorova](https://www.umassmed.edu/khvorovalab/) and [Dmitry Korkin](http://korkinlab.org). 
 
@@ -8,14 +8,20 @@ My research bridges biology with computer science to advance therapeutic develop
 
 I conducted my undergraduate studies at the Colorado School of Mines and the University of Massachusetts Amherst where I completed my BS summa cum laude. I completed my MS in the Laboratory of [Alejandro Heuck](https://people.biochem.umass.edu/heuck/research.html) at the University of Massachusetts Amherst. 
 
-# Research Experience
-**UMass Medical School & Worcester Polytechnic Institute** - Ph.D. Candidate, Prof. Anastasia Khvorova and Prof. Dmitry Korkin Laboratories
+# Experience
+**University of Massachusetts Medical School & Worcester Polytechnic Institute**
+Ph.D. Candidate, Program in Quantitative and Computational Biosciences & Bioengineering
+Advised by Anastasia Khvorova and Dmitry Korkin 
+RNA Therapeutics Institute & Bioinformatics and Computational Biology Department
 
-**Advirna** - Asociate Scientist, Bioinformatics
+**Advirna**
+Asociate Scientist, Bioinformatics
 
-**UMass Amherst** - M.S. Research Assistantship, Prof. Alejandro Heuck Laboratory
+**University of Massachusetts Amherst**
+Master's Research Assistantship, Prof. Alejandro Heuck Laboratory
 
-**Biogen** - Intern, Antibody Discovery
+**Biogen**
+Intern, Antibody Discovery
 
 
 # Publications
