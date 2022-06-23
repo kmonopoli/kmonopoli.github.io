@@ -1,6 +1,6 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon2.svg">
 
-<img src="photo_2.jpg" alt="drawing" width="400" align="left" style="display: block; margin: auto;" />
+<img src="photo_2.jpg" alt="drawing" width="420" align="left" style="display: block; margin: auto;" />
 
 I am a Ph.D candidate studying Bioinformatics in the [Quantitative and Computational Biosciences & Bioengineering](https://umassmed.edu/es/gsbs/current-students/computational-biomedical-sciences-and-engineering/) Joint Graduate Program at University of Massachusetts Medical School and Worcester Polytechnic Institute. I am advised by [Anastasia Khvorova](https://www.umassmed.edu/khvorovalab/) and [Dmitry Korkin](http://korkinlab.org). 
 
@@ -8,14 +8,12 @@ My research bridges biology with computer science to advance therapeutic develop
 
 I conducted my undergraduate studies at the Colorado School of Mines and the University of Massachusetts Amherst where I completed my BS summa cum laude. I completed my MS in the Laboratory of [Alejandro Heuck](https://people.biochem.umass.edu/heuck/research.html) at the University of Massachusetts Amherst. 
 
-
-
 ## Publications
+**\*Shmushkovich, T., \*Monopoli, K.R.,** Homsy, D., Leyfer, D., Betancur-Boissel, M., Khvorova, A., Wolfson, A. (2018) Functional features defining the efficacy of cholesterol-conjugated, self-deliverable, chemically modified siRNAs. Nucleic Acids Research. \***equally-contributing first authors** [[paper]](https://academic.oup.com/nar/article/46/20/10905/5085976)
+
 Hariharan, V.N., Shin, M., Chang, C., O’Reilly, D., Biscans, A., Yamada, K., Guo, Z., Somasundaran, M., Tang, Q., **Monopoli, K.R.**, Krishnamurthy, P.M., Devi, G., McHugh, N., Cooper, D.A., Echeverria, D., Cruz, J., Chan, I.L., Liu, P., Lim, S., McConnell, J., Singh, S.P., Hildebrand, S., Sousa, J., Davis, S.M., Kennedy, Z., Ferguson, C., Godinho, B.M.D.C., Thillier, Y., Caiazzi, J., Ly, S., Muhuri, M., Kelly, K., Humphries, F., Cousineau, A., Parsi, K.M., Li, Q., Wang, Y., Maehr, R., Gao, G., Korkin, D., McDougall, W.M., Korkin, D., Fitzgerald, K.A., Finberg, R.W., Wang, J.P., Watts, J.K., Khvorova, A. (2022) Divalent siRNAs are bioavailable in the lung and efficiently block SARS-CoV-2 infection. In review, Nature Biotechnology.
 
 Tang, Q., Sousa, J., Echeverria, D., Fan, X., Hsueah, Y.C., Afshari, K., MeHugh, N., Cooper, D.A., Vangjeli, L., **Monopoli, K.R.**, Okamura K, Biscans A, Clauss A, Harris JE, Khvorova A. (2022) RNAi-based modulation of IFN-γ signaling in skin. Molecular Therapy. [[paper]](https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(22)00249-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1525001622002490%3Fshowall%3Dtrue)
-
-**\*Shmushkovich, T., \*Monopoli, K.R.,** Homsy, D., Leyfer, D., Betancur-Boissel, M., Khvorova, A., Wolfson, A. (2018) Functional features defining the efficacy of cholesterol-conjugated, self-deliverable, chemically modified siRNAs. Nucleic Acids Research. \***equally-contributing first authors** [[paper]](https://academic.oup.com/nar/article/46/20/10905/5085976)
 
 Romano, F.B., Rossi, K.C., Tang, Y., **Monopoli, K.R.**, Ross, J.L., Heuck, A.P. (2016) Type 3 Secretion translocators spontaneously assemble a hexadecameric transmembrane complex. Journal of Biological Chemistry. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5995524/)
 
@@ -52,7 +50,7 @@ Monopoli, K.R. Advised by Prof. Alejandro Heuck. “Characterization of the Reco
 
 Monopoli, K.R. Advised by Prof. Alejandro Heuck. “Characterization of the Pseudomonas aeruginosa Type III Secretion System Translocon in Model Membranes”. Undergraduate Thesis. University of Massachusetts, Amherst, May 2014. 
 
-## [Other Projects](https://github.com/kmonopoli)
+# [Other Projects](https://github.com/kmonopoli)
 
 ## Patents
 Oligonucleotides for MAPT Modulation - US Utility Patent Application No. 62/991,405, 3/18/2020
