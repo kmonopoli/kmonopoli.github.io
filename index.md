@@ -19,7 +19,7 @@ I conducted my undergraduate studies at the Colorado School of Mines and the Uni
 
 
 # Publications
-**\*Shmushkovich, T., \*Monopoli, K.R.,** Homsy, D., Leyfer, D., Betancur-Boissel, M., Khvorova, A., Wolfson, A. (2018) Functional features defining the efficacy of cholesterol-conjugated, self-deliverable, chemically modified siRNAs. Nucleic Acids Research. \***equally-contributing first authors** [[paper]](https://academic.oup.com/nar/article/46/20/10905/5085976)
+Shmushkovich, T.\*, **Monopoli, K.R.\*,** Homsy, D., Leyfer, D., Betancur-Boissel, M., Khvorova, A., Wolfson, A. (2018) Functional features defining the efficacy of cholesterol-conjugated, self-deliverable, chemically modified siRNAs. Nucleic Acids Research. \***equally-contributing first authors** [[paper]](https://academic.oup.com/nar/article/46/20/10905/5085976)
 
 Hariharan, V.N., Shin, M., Chang, C., O’Reilly, D., Biscans, A., Yamada, K., Guo, Z., Somasundaran, M., Tang, Q., **Monopoli, K.R.**, Krishnamurthy, P.M., Devi, G., McHugh, N., Cooper, D.A., Echeverria, D., Cruz, J., Chan, I.L., Liu, P., Lim, S., McConnell, J., Singh, S.P., Hildebrand, S., Sousa, J., Davis, S.M., Kennedy, Z., Ferguson, C., Godinho, B.M.D.C., Thillier, Y., Caiazzi, J., Ly, S., Muhuri, M., Kelly, K., Humphries, F., Cousineau, A., Parsi, K.M., Li, Q., Wang, Y., Maehr, R., Gao, G., Korkin, D., McDougall, W.M., Korkin, D., Fitzgerald, K.A., Finberg, R.W., Wang, J.P., Watts, J.K., Khvorova, A. (2022) Divalent siRNAs are bioavailable in the lung and efficiently block SARS-CoV-2 infection. In review, Nature Biotechnology.
 
