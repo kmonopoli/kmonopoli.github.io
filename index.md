@@ -16,14 +16,18 @@ Advised by Anastasia Khvorova and Dmitry Korkin
 
 RNA Therapeutics Institute & Bioinformatics and Computational Biology Department
 
+
 ### Advirna
 Asociate Scientist, Bioinformatics
+
 
 ### University of Massachusetts Amherst
 Master's Research Assistantship, Prof. Alejandro Heuck Laboratory
 
+
 ### Biogen
 Intern, Antibody Discovery
+
 
 
 # Publications
