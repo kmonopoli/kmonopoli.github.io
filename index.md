@@ -14,7 +14,7 @@ I conducted my undergraduate studies at the Colorado School of Mines and the Uni
 &nbsp;&nbsp;&nbsp;University of Massachusetts Medical School & Worcester Polytechnic Institute  
 &nbsp;&nbsp;&nbsp;RNA Therapeutics Institute & Bioinformatics and Computational Biology Department  
 
-**Asociate Scientist** – Bioinformatics  
+**Asociate Scientist Bioinformatics** 
 &nbsp;&nbsp;&nbsp;Advirna  
 
 **M.S. Graduate Researcher** – Biochemistry  
@@ -38,14 +38,14 @@ Romano, F.B., Rossi, K.C., Tang, Y., **Monopoli, K.R.**, Ross, J.L., Heuck, A.P.
 
 
 # Talks
-Monopoli, K.R., Korkin, D., Khvorova, A. Trichotomous classification on small, limited datasets enables predictive model development for therapeutic small interfering RNA. Talk presented at the Intelligent Systems for Molecular Biology (ISMB); 2022 Jul 10; Madison, WI.
+Monopoli, K.R., Korkin, D., Khvorova, A. Trichotomous classification on small, limited datasets enables predictive model development for therapeutic small interfering RNA. Talk presented at the Intelligent Systems for Molecular Biology (ISMB); 2022 Jul 10; Madison, WI.[[recorded talk]](https://youtu.be/V1cT0HU0lJY)
 
 Monopoli, K.R., Korkin, D., Khvorova, A. Evaluation-centric method for extracting base preferences from siRNA prediction models identifies features consistent with established mechanisms and is adaptable to examine any machine learning model. Talk presented at the RNA Therapeutics Symposium; 2022 Jun 22; Worcester, MA. [[recorded talk]](https://youtu.be/f_4O-Cq9PG0)
 
 Monopoli, K.R., Korkin, D., Khvorova, A.  Methods to apply and evaluate machine learning models on limited biological datasets through the lens of siRNA design. Invited talk presented at Oligonucleotide Therapeutics Society Seminar.
 
 # Conference Posters
-Monopoli, K.R., Korkin, D., Khvorova, A. Trichotomous classification on small, limited datasets enables predictive model development for therapeutic small interfering RNA. Poster presented at the Intelligent Systems for Molecular Biology (ISMB); 2022 Jul 10; Madison, WI.
+Monopoli, K.R., Korkin, D., Khvorova, A. Trichotomous classification on small, limited datasets enables predictive model development for therapeutic small interfering RNA. Poster presented at the Intelligent Systems for Molecular Biology (ISMB); 2022 Jul 10; Madison, WI.[[recorded poster presentation]](https://youtu.be/qz2ApDI7DBI)
 
 Monopoli, K.R., Korkin, D., Khvorova, A. Data Partitioning to Enable Application of Machine Learning Models to Limited Biological Datasets Using SiRNA Design as an Example Case. Poster at the Oligonucleotide Therapeutics Society Meeting; Sep 2021; virtual. [[recorded poster presentation]](https://youtu.be/xtk9x210RmE)
 
@@ -94,6 +94,7 @@ BIOLOGY 311: **General Genetics** (UMass Amherst) – Teaching Assistant (Fall 2
 
 
 ## Fellowships and Awards
+iRNA COSI Travel Fellowship - ISMB 2022 Conference
 Poster Award – Oligonucleotide Therapeutics Society 2021 Annual Meeting  
 Fuller Scholarship  
 Phi Beta Kappa  
