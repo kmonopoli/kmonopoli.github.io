@@ -14,7 +14,7 @@ I conducted my undergraduate studies at the Colorado School of Mines and the Uni
 &nbsp;&nbsp;&nbsp;University of Massachusetts Medical School & Worcester Polytechnic Institute  
 &nbsp;&nbsp;&nbsp;RNA Therapeutics Institute & Bioinformatics and Computational Biology Department  
 
-**Asociate Scientist Bioinformatics**  
+**Asociate Scientist Bioinformatics** 
 &nbsp;&nbsp;&nbsp;Advirna  
 
 **M.S. Graduate Researcher** – Biochemistry  
@@ -24,8 +24,8 @@ I conducted my undergraduate studies at the Colorado School of Mines and the Uni
 **Intern** – Antibody Discovery  
 &nbsp;&nbsp;&nbsp;Biogen  
 
-*[GitHub](https://github.com/kmonopoli)*
-*[LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)*
+*[GitHub](https://github.com/kmonopoli)*  
+*[LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)*  
 
 
 # Publications
