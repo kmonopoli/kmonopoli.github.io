@@ -24,7 +24,8 @@ I conducted my undergraduate studies at the Colorado School of Mines and the Uni
 **Intern** – Antibody Discovery  
 &nbsp;&nbsp;&nbsp;Biogen  
 
-*[Other Projects](https://github.com/kmonopoli)*
+*[GitHub](https://github.com/kmonopoli)*
+*[LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)*
 
 
 # Publications
