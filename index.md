@@ -24,11 +24,12 @@ I conducted my undergraduate studies at the Colorado School of Mines and the Uni
 **Intern** – Antibody Discovery  
 &nbsp;&nbsp;&nbsp;Biogen  
 
-*[GitHub](https://github.com/kmonopoli)*  
-*[LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)*  
+*[[GitHub]](https://github.com/kmonopoli)*  
+*[[LinkedIn]](https://www.linkedin.com/in/kathrynmonopoli/)*  
 
 
-# Publications *[[ORCID: 0000-0002-8615-4849]](https://orcid.org/0000-0002-8615-4849)*
+# Publications
+*[[ORCID: 0000-0002-8615-4849]](https://orcid.org/0000-0002-8615-4849)*
 
 **Monopoli, K.R.,** Korkin, D., Khvorova, A. (2023) Asymmetric trichotomous data partitioning enables development of predictive machine learning models using limited siRNA efficacy datasets. *Under review wtih Molecular Therapy of Nucelic Acids.* [[biorxiv]](https://www.biorxiv.org/content/10.1101/2022.07.08.499317v1)
 
@@ -53,23 +54,19 @@ Monopoli, K.R., Korkin, D., Khvorova, A. Evaluation-centric method for extractin
 Monopoli, K.R., Korkin, D., Khvorova, A.  Methods to apply and evaluate machine learning models on limited biological datasets through the lens of siRNA design. Invited talk presented at Oligonucleotide Therapeutics Society Seminar; 2021 Oct.
 
 # Conference Posters
-Monopoli, K.R., Korkin, D., Khvorova, A. Trichotomous classification on small, limited datasets enables predictive model development for therapeutic small interfering RNA. Poster presented at the Intelligent Systems for Molecular Biology (ISMB); 2022 Jul 10; Madison, WI.[[recorded poster presentation]](https://youtu.be/qz2ApDI7DBI)
+Monopoli, K.R., Korkin, D., Khvorova, A. Method for encapsulating transcript sequence environment information boosts siRNA potency prediction accuracy of supervised machine learning models. Presented at the RNA Therapeutics Symposium; 2023 Jun 23; Worcester, MA.
 
-Monopoli, K.R., Korkin, D., Khvorova, A. Data Partitioning to Enable Application of Machine Learning Models to Limited Biological Datasets Using SiRNA Design as an Example Case. Poster at the Oligonucleotide Therapeutics Society Meeting; Sep 2021; virtual. [[recorded poster presentation]](https://youtu.be/xtk9x210RmE)
+Monopoli, K.R., Korkin, D., Khvorova, A. Trichotomous classification on small, limited datasets enables predictive model development for therapeutic small interfering RNA. Presented at the Intelligent Systems for Molecular Biology (ISMB); 2022 Jul 10; Madison, WI. [[recorded poster presentation]](https://youtu.be/qz2ApDI7DBI)
 
-Monopoli, K.R., siRNA Screening Consortium, Korkin, D., Khvorova, A. Predicting siRNA Silencing Efficacy using Supervised Machine Learning. Poster presentation at the RNA Therapeutics Symposium; 2021 June 28; Worcester, MA. [[poster]](https://vepimg.b8cdn.com/uploads/vjfnew/4489/content/images/1622548685rti-poster-kathryn-monopoli-pdf1622548685.pdf)[[video overview]](https://vimeo.com/557558254)
+Monopoli, K.R., Korkin, D., Khvorova, A. Data Partitioning to Enable Application of Machine Learning Models to Limited Biological Datasets Using SiRNA Design as an Example Case. Presented at the Oligonucleotide Therapeutics Society Meeting; Sep 2021; virtual. [[recorded poster presentation]](https://youtu.be/xtk9x210RmE)
 
-Monopoli, K.R., Heuck, A.P. PopB and PopD interact simultaneously when forming the putative translocon in the Pseudomonas aeruginosa Type III Secretion System. Poster presentation at the Molecular and Cellular Biology Program Annual Retreat; 2015 Feb 28; Amherst, MA. 
+Monopoli, K.R., siRNA Screening Consortium, Korkin, D., Khvorova, A. Predicting siRNA Silencing Efficacy using Supervised Machine Learning. Presented at the RNA Therapeutics Symposium; 2021 June 28; Worcester, MA. [[poster]](https://vepimg.b8cdn.com/uploads/vjfnew/4489/content/images/1622548685rti-poster-kathryn-monopoli-pdf1622548685.pdf)[[video overview]](https://vimeo.com/557558254)
 
-Monopoli, K.R., Heuck, A.P. Forming the Pseudomonas aeruginosa translocon requires simultaneous incorporation of PopB and PopD. Poster presentation at the Biophysical Society Annual Meeting; 2015 Feb 6-11; Baltimore, MD. [[abstract]](https://www.cell.com/biophysj/comments/S0006-3495(14)01752-4)
-
-Monopoli, K.R., Romano, F.B., Heuck, A.P. Characterization of membrane-assembled Pseudomonas aeruginosa Type III Secretion System Translocon. Poster presented at the Models to Medicine Conference; 2014 May 2; Amherst, MA.
+Monopoli, K.R., Heuck, A.P. Forming the Pseudomonas aeruginosa translocon requires simultaneous incorporation of PopB and PopD. Presented at the Biophysical Society Annual Meeting; 2015 Feb 6-11; Baltimore, MD. [[abstract]](https://www.cell.com/biophysj/comments/S0006-3495(14)01752-4)
 
 Monopoli, K.R., Romano, F.B., Heuck, A.P. Structural Studies of the Membrane Bound Translocon of the Pseudomonas aeruginosa Type III Secretion System. Poster presented at the Undergraduate Symposium for the American Chemical Society; 2014 April 26; Amherst, MA.
 
 Monopoli, K.R., Romano, F.B., Heuck, A.P. Characterization of the Pseudomonas aeruginosa Type III Secretion Translocon in Model Membranes. Poster presented at the Massachusetts Undergraduate Statewide Research Conference; 2014 April 25; Amherst, MA.
-
-Monopoli, K.R., Romano, F.B., Heuck, A.P. PopB modulates the interaction of PopD with membranes. Poster presented at the UMass Homecoming Poster Session; 2013 Oct 18; Amherst, MA.
 
 Monopoli, K.R., Pearse, B.R. Generation of a repertoire of antibodies for clinical assay development by phage display. Poster presented at Biogen Intern Poster Session; 2013 Aug 22; Cambridge, MA.  
 
@@ -85,7 +82,7 @@ Oligonucleotides for MSH3 Modulation – US Patent Application No. 63/012,603, 4
 Oligonucleotides for MAPT Modulation – US Utility Patent Application No. 63/071,106, 8/27/2020  
 Oligonucleotides for SNCA Modulation – US Utility Patent Application No. 63/071,115, 8/27/2020  
 Oligonucleotides for SARS-CoV-2 Modulation – US Utility Patent Application No. 63/031,222, 5/28/2020  
-Oligonucleotides for SARS-CoV-2 Modulation – US Utility Patent Application No. 63/084,817, 9/29/2020 [[view]](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20230021431)
+Oligonucleotides for SARS-CoV-2 Modulation – US Utility Patent Application No. 63/084,817, 9/29/2020 [[view]](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20230021431)  
 Oligonucleotides for MAPT Modulation – US Patent Application No. 17/204,480, 3/17/2021  
 Oligonucleotides for MAPT Modulation – Intl Patent Application No. PCT/US2021/022688, 3/17/2021  
 Oligonucleotides for SNCA Modulation – US Patent Application No. 17/204,483, 3/17/2021  
