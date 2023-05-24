@@ -28,17 +28,21 @@ I conducted my undergraduate studies at the Colorado School of Mines and the Uni
 *[LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)*  
 
 
-# Publications
-Shmushkovich, T.,\* **Monopoli, K.R.,\*** Homsy, D., Leyfer, D., Betancur-Boissel, M., Khvorova, A., Wolfson, A. (2018) Functional features defining the efficacy of cholesterol-conjugated, self-deliverable, chemically modified siRNAs. *Nucleic Acids Research.* \***equally-contributing first authors** [[paper]](https://academic.oup.com/nar/article/46/20/10905/5085976)
+# Publications *[[ORCID: 0000-0002-8615-4849]](https://orcid.org/0000-0002-8615-4849)*
 
-Hariharan, V.N., Shin, M., Chang, C., O’Reilly, D., Biscans, A., Yamada, K., Guo, Z., Somasundaran, M., Tang, Q., **Monopoli, K.R.**, Krishnamurthy, P.M., Devi, G., McHugh, N., Cooper, D.A., Echeverria, D., Cruz, J., Chan, I.L., Liu, P., Lim, S., McConnell, J., Singh, S.P., Hildebrand, S., Sousa, J., Davis, S.M., Kennedy, Z., Ferguson, C., Godinho, B.M.D.C., Thillier, Y., Caiazzi, J., Ly, S., Muhuri, M., Kelly, K., Humphries, F., Cousineau, A., Parsi, K.M., Li, Q., Wang, Y., Maehr, R., Gao, G., Korkin, D., McDougall, W.M., Korkin, D., Fitzgerald, K.A., Finberg, R.W., Wang, J.P., Watts, J.K., Khvorova, A. (2022) Divalent siRNAs are bioavailable in the lung and efficiently block SARS-CoV-2 infection. *In review, Nature Biotechnology.*
+**Monopoli, K.R.,** Korkin, D., Khvorova, A. (2023) Asymmetric trichotomous data partitioning enables development of predictive machine learning models using limited siRNA efficacy datasets. *Under review wtih Molecular Therapy of Nucelic Acids.* [[biorxiv]](https://www.biorxiv.org/content/10.1101/2022.07.08.499317v1)
 
-**Monopoli, K.R.,** Korkin, D., Khvorova, A. (2022) Asymmetric trichotomous data partitioning enables development of predictive machine learning models using limited siRNA efficacy datasets. *Under review wtih Molecular Therapy of Nucelic Acids.* [[biorxiv]](https://www.biorxiv.org/content/10.1101/2022.07.08.499317v1)
+Davis, S.M., Hildebrand, S., MacMillan, H., **Monopoli, K.R.**, Sousa, J., Cooper, D., Ly, S., Echeverria, D., Mchugh, N., Ferguson, C., Coles, A., Hariharan, V., O'Reilly, D., Tang, Q., Furgal, R., Buchwald, J., Yamada, K., Gilbert, J., Knox, E., Alterman, J., Pineda, Y., Weston, C., Baer, C., Pai, A., Khvorova, A. (2023) Guidelines for Designing Therapeutic siRNA. *Submitted to NAR.*
 
-Tang, Q., Sousa, J., Echeverria, D., Fan, X., Hsueah, Y.C., Afshari, K., MeHugh, N., Cooper, D.A., Vangjeli, L., **Monopoli, K.R.**, Okamura K, Biscans A, Clauss A, Harris JE, Khvorova A. (2022) RNAi-based modulation of IFN-γ signaling in skin. *Molecular Therapy.* [[paper]](https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(22)00249-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1525001622002490%3Fshowall%3Dtrue)
+Hariharan VN, Shin M, Chang CW, O'Reilly D, Biscans A, Yamada K, Guo Z, Somasundaran M, Tang Q, **Monopoli K**, Krishnamurthy PM, Devi G, McHugh N, Cooper DA, Echeverria D, Cruz J, Chan IL, Liu P, Lim SY, McConnell J, Singh SP, Hildebrand S, Sousa J, Davis SM, Kennedy Z, Ferguson C, Godinho BMDC, Thillier Y, Caiazzi J, Ly S, Muhuri M, Kelly K, Humphries F, Cousineau A, Parsi KM, Li Q, Wang Y, Maehr R, Gao G, Korkin D, McDougall WM, Finberg RW, Fitzgerald KA, Wang JP, Watts JK, Khvorova A. (2023) Divalent siRNAs are bioavailable in the lung and efficiently block SARS-CoV-2 infection. *PNAS.* [[article]](https://www.pnas.org/doi/10.1073/pnas.2219523120)
 
+O'Reilly, D., Belgrad, J., Ferguson, C., Summers, A., Sapp, E., McHugh, C., Mathews, E., Boudi, A., Buchwald, J., Ly, S., Moreno, D., Furgal, R., Luu, E., Kennedy, Z., Hariharan, V., **Monopoli, K.**, William, X., Carroll, J., DiFiglia, M., Aronin, N., Khvorova, A.(2023) Di-valent siRNA Mediated Silencing of MSH3 Blocks Somatic Repeat Expansion in Mouse Models of Huntington’s Disease. *Accepted to Molecular Therapy.* [[article]](https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(23)00262-9)
 
-Romano, F.B., Rossi, K.C., Tang, Y., **Monopoli, K.R.**, Ross, J.L., Heuck, A.P. (2016) Type 3 Secretion translocators spontaneously assemble a hexadecameric transmembrane complex. *Journal of Biological Chemistry.* [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5995524/)
+Tang, Q., Sousa, J., Echeverria, D., Fan, X., Hsueah, Y.C., Afshari, K., MeHugh, N., Cooper, D.A., Vangjeli, L., **Monopoli, K.R.**, Okamura K, Biscans A, Clauss A, Harris JE, Khvorova A. (2022) RNAi-based modulation of IFN-γ signaling in skin. *Molecular Therapy.* [[article]](https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(22)00249-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1525001622002490%3Fshowall%3Dtrue)
+
+Shmushkovich, T.,\* **Monopoli, K.R.,\*** Homsy, D., Leyfer, D., Betancur-Boissel, M., Khvorova, A., Wolfson, A. (2018) Functional features defining the efficacy of cholesterol-conjugated, self-deliverable, chemically modified siRNAs. *Nucleic Acids Research.* \***equally-contributing first authors** [[article]](https://academic.oup.com/nar/article/46/20/10905/5085976)
+
+Romano, F.B., Rossi, K.C., Tang, Y., **Monopoli, K.R.**, Ross, J.L., Heuck, A.P. (2016) Type 3 Secretion translocators spontaneously assemble a hexadecameric transmembrane complex. *Journal of Biological Chemistry.* [[article]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5995524/)
 
 
 # Talks
@@ -81,7 +85,7 @@ Oligonucleotides for MSH3 Modulation – US Patent Application No. 63/012,603, 4
 Oligonucleotides for MAPT Modulation – US Utility Patent Application No. 63/071,106, 8/27/2020  
 Oligonucleotides for SNCA Modulation – US Utility Patent Application No. 63/071,115, 8/27/2020  
 Oligonucleotides for SARS-CoV-2 Modulation – US Utility Patent Application No. 63/031,222, 5/28/2020  
-Oligonucleotides for SARS-CoV-2 Modulation – US Utility Patent Application No. 63/084,817, 9/29/2020  
+Oligonucleotides for SARS-CoV-2 Modulation – US Utility Patent Application No. 63/084,817, 9/29/2020 [[view]](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20230021431)
 Oligonucleotides for MAPT Modulation – US Patent Application No. 17/204,480, 3/17/2021  
 Oligonucleotides for MAPT Modulation – Intl Patent Application No. PCT/US2021/022688, 3/17/2021  
 Oligonucleotides for SNCA Modulation – US Patent Application No. 17/204,483, 3/17/2021  
