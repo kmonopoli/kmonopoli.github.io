@@ -31,7 +31,7 @@ I conducted my undergraduate studies at the Colorado School of Mines and the Uni
 # Publications
 *[[ORCID: 0000-0002-8615-4849]](https://orcid.org/0000-0002-8615-4849)*
 
-**Monopoli, K.R.,** Korkin, D., Khvorova, A. (2023) Asymmetric trichotomous data partitioning enables development of predictive machine learning models using limited siRNA efficacy datasets. *Molecular Therapy of Nucelic Acids (in press).* [[biorxiv]](https://www.biorxiv.org/content/10.1101/2022.07.08.499317v1)
+**Monopoli, K.R.,** Korkin, D., Khvorova, A. (2023) Asymmetric trichotomous data partitioning enables development of predictive machine learning models using limited siRNA efficacy datasets. *Molecular Therapy of Nucelic Acids (in press).* [[article]](https://www.cell.com/molecular-therapy-family/nucleic-acids/pdf/S2162-2531(23)00160-9.pdf?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2162253123001609%3Fshowall%3Dtrue)
 
 Davis, S.M., Hildebrand, S., MacMillan, H., **Monopoli, K.R.**, Sousa, J., Cooper, D., Ly, S., Echeverria, D., Mchugh, N., Ferguson, C., Coles, A., Hariharan, V., O'Reilly, D., Tang, Q., Furgal, R., Buchwald, J., Yamada, K., Gilbert, J., Knox, E., Alterman, J., Pineda, Y., Weston, C., Baer, C., Pai, A., Khvorova, A. (2023) Guidelines for Designing Therapeutic siRNA. *Submitted to NAR.*
 
