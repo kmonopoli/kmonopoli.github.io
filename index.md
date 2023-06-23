@@ -77,7 +77,7 @@ Monopoli, K.R. Advised by Prof. Alejandro Heuck. “Characterization of the Reco
 
 Monopoli, K.R. Advised by Prof. Alejandro Heuck. “Characterization of the Pseudomonas aeruginosa Type III Secretion System Translocon in Model Membranes.” Undergraduate Thesis. University of Massachusetts, Amherst, May 2014. 
 
-## Patents
+## Patents and Applications
 Oligonucleotides for MAPT Modulation – US Utility Patent Application No. 62/991,405, 3/18/2020  
 Oligonucleotides for SNCA Modulation – US Utility Patent Application No. 62/991,406, 3/18/2020  
 Oligonucleotides for MSH3 Modulation – US Patent Application No. 63/012,603, 4/20/2020  
