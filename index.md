@@ -1,6 +1,6 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon2.svg">
 
-<img src="IMG_0641.jpg" alt="drawing" width="400" align="left" style="display: block; margin: auto;" />
+<img src="photo_3.jpg" alt="drawing" width="300" align="left" style="display: block; margin: auto;" />
 
 I am a Ph.D. candidate studying Bioinformatics in the [Quantitative and Computational Biosciences & Bioengineering](https://umassmed.edu/es/gsbs/current-students/computational-biomedical-sciences-and-engineering/) Joint Graduate Program at University of Massachusetts Medical School and Worcester Polytechnic Institute. I am advised by [Anastasia Khvorova](https://www.umassmed.edu/khvorovalab/) and [Dmitry Korkin](http://korkinlab.org). I transitioned from the bench where I studied membrane protein biophysics, to computational research where I am applying machine learning techniques to study small interfering RNAs (siRNAs).
 
