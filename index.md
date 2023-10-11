@@ -56,11 +56,15 @@ Monopoli, K.R., Korkin, D., Khvorova, A. Evaluation-centric method for extractin
 Monopoli, K.R., Korkin, D., Khvorova, A.  Methods to apply and evaluate machine learning models on limited biological datasets through the lens of siRNA design. Invited talk presented at Oligonucleotide Therapeutics Society Seminar; 2021 Oct.
 
 # Conference Posters
+Monopoli, K.R., Korkin, D., Khvorova, A. Artificial intelligence-based nonlinear sequence environment encapsulation yields robust native context therapeutic siRNA potency prediction algorithm. Presented at the Oligonucleotide Therapeutics Society Annual Meeting; 2023 Oct 23; Barcelona, Spain.
+
+Monopoli, K.R., Korkin, D., Khvorova, A. Developing accurate models for computing potency of therapeutically modified siRNAs using AI-based methods to encapsulate sequence environments. Presented at the Nature Conference - Cracking the Code: The Dawn of Nucleic Acid Medicines; 2023 Oct 19; Worcester, MA.
+
 Monopoli, K.R., Korkin, D., Khvorova, A. Method for encapsulating transcript sequence environment information boosts siRNA potency prediction accuracy of supervised machine learning models. Presented at the RNA Therapeutics Symposium; 2023 Jun 23; Worcester, MA.
 
 Monopoli, K.R., Korkin, D., Khvorova, A. Trichotomous classification on small, limited datasets enables predictive model development for therapeutic small interfering RNA. Presented at the Intelligent Systems for Molecular Biology (ISMB); 2022 Jul 10; Madison, WI. [[recorded poster presentation]](https://youtu.be/qz2ApDI7DBI)
 
-Monopoli, K.R., Korkin, D., Khvorova, A. Data Partitioning to Enable Application of Machine Learning Models to Limited Biological Datasets Using SiRNA Design as an Example Case. Presented at the Oligonucleotide Therapeutics Society Meeting; Sep 2021; virtual. [[recorded poster presentation]](https://youtu.be/xtk9x210RmE)
+Monopoli, K.R., Korkin, D., Khvorova, A. Data Partitioning to Enable Application of Machine Learning Models to Limited Biological Datasets Using SiRNA Design as an Example Case. Presented at the Oligonucleotide Therapeutics Society Annual Meeting; Sep 2021; virtual. [[recorded poster presentation]](https://youtu.be/xtk9x210RmE)
 
 Monopoli, K.R., siRNA Screening Consortium, Korkin, D., Khvorova, A. Predicting siRNA Silencing Efficacy using Supervised Machine Learning. Presented at the RNA Therapeutics Symposium; 2021 June 28; Worcester, MA. [[poster]](https://vepimg.b8cdn.com/uploads/vjfnew/4489/content/images/1622548685rti-poster-kathryn-monopoli-pdf1622548685.pdf)[[video overview]](https://vimeo.com/557558254)
 
@@ -101,6 +105,7 @@ BIOLOGY 311: **General Genetics** (UMass Amherst) – Teaching Assistant (Fall 2
 
 
 ## Fellowships and Awards
+Travel Fellowship - Oligonucleotide Therapeutics Society 2023 Annual Meeting 
 iRNA COSI Travel Fellowship - ISMB 2022 Conference  
 Poster Award – Oligonucleotide Therapeutics Society 2021 Annual Meeting  
 Fuller Scholarship  
