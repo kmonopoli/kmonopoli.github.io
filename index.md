@@ -9,9 +9,7 @@ My research bridges biology with computer science to advance therapeutic develop
 I conducted my undergraduate studies at the Colorado School of Mines and the University of Massachusetts Amherst where I completed my B.S. *summa cum laude*. I completed my M.S. in Biochemistry in the Laboratory of [Alejandro Heuck](https://people.biochem.umass.edu/heuck/research.html) at the University of Massachusetts Amherst. 
 https://github.com/kmonopoli/kmonopoli.github.io/edit/main/index.md
 
-[CV](https://kmonopoli.github.io/downloads/cv_kathryn_monopoli.pdf)
-
-
+[CV](downloads/cv_kathryn_monopoli.pdf)
 
 
 # Experience
