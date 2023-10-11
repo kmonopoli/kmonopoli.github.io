@@ -128,7 +128,9 @@ Presidential Scholarship – Colorado School of Mines
 [Hector Reyes House](https://www.lahaworc.org) - volunteer  
 
 
+[CV][1]
 
+[1]:{{ site.url }}/downloads/CV - Kathryn Monopoli.pdf
 
 
 
