@@ -8,6 +8,12 @@ My research bridges biology with computer science to advance therapeutic develop
 
 I conducted my undergraduate studies at the Colorado School of Mines and the University of Massachusetts Amherst where I completed my B.S. *summa cum laude*. I completed my M.S. in Biochemistry in the Laboratory of [Alejandro Heuck](https://people.biochem.umass.edu/heuck/research.html) at the University of Massachusetts Amherst. 
 
+
+[CV][1]
+
+[1]:{{ site.url }}/downloads/CV - Kathryn Monopoli.pdf
+
+
 # Experience
 **Ph.D. Candidate** – Program in Quantitative and Computational Biosciences & Bioengineering  
 &nbsp;&nbsp;&nbsp;Advised by Anastasia Khvorova & Dmitry Korkin  
@@ -128,9 +134,7 @@ Presidential Scholarship – Colorado School of Mines
 [Hector Reyes House](https://www.lahaworc.org) - volunteer  
 
 
-[CV][1]
 
-[1]:{{ site.url }}/downloads/CV - Kathryn Monopoli.pdf
 
 
 
