@@ -7,9 +7,11 @@ I am a Ph.D. candidate studying Bioinformatics in the [Quantitative and Computat
 My research bridges biology with computer science to advance therapeutic development and, more generally, expand our understanding of biological processes. My primary focus is on applying machine learning techniques to probe the siRNA gene silencing mechanism and develop siRNA sequence design algorithms. I am passionate about increasing access to advanced computational algorithms for life science researchers without computational training, through developing easy-to-use computational tools that do not require any computer programming knowledge. 
 
 I conducted my undergraduate studies at the Colorado School of Mines and the University of Massachusetts Amherst where I completed my B.S. *summa cum laude*. I completed my M.S. in Biochemistry in the Laboratory of [Alejandro Heuck](https://people.biochem.umass.edu/heuck/research.html) at the University of Massachusetts Amherst. 
+https://github.com/kmonopoli/kmonopoli.github.io/edit/main/index.md
+
+[CV](https://kmonopoli.github.io/downloads/cv_kathryn_monopoli.pdf)
 
 
-[CV](kmonopoli.github.io/downloads/CV - Kathryn Monopoli.pdf)
 
 
 # Experience
