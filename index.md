@@ -10,8 +10,6 @@ I conducted my undergraduate studies at the Colorado School of Mines and the Uni
 https://github.com/kmonopoli/kmonopoli.github.io/edit/main/index.md
 
 
-
-
 # Experience
 **Ph.D. Candidate** – Program in Quantitative and Computational Biosciences & Bioengineering  
 &nbsp;&nbsp;&nbsp;Advised by Anastasia Khvorova & Dmitry Korkin  
