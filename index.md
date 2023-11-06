@@ -1,7 +1,5 @@
-
-
 <head>
-  <link rel="shortcut icon" type="image/x-icon" href="favicon2.svg">
+  <link rel="shortcut icon" type="image/png" href="favicon.png">
 </head>
   
 <img src="photo_3.jpg" alt="image" width="300" align="left" style="display: block; margin: 5px;" />
