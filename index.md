@@ -1,5 +1,6 @@
 <head>
-  <link rel="shortcut icon" type="image/png" href="favicon.png">
+  <link rel="shortcut icon" type="image/png" 
+      href="{{ "/images/favicon.png"  | absolute_url }}">
 </head>
   
 <img src="photo_3.jpg" alt="image" width="300" align="left" style="display: block; margin: 5px;" />
