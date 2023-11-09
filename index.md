@@ -5,25 +5,25 @@
 
 <style>
 a:link {
-  color: green;
+  color: "#176764";
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: pink;
+  color: '#55A9A7';
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: red;
+  color: '#176764';
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: yellow;
+  color: '#176764';
   background-color: transparent;
   text-decoration: underline;
 }
