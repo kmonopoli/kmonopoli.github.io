@@ -2,6 +2,33 @@
   <link rel="shortcut icon" type="image/png" 
       href="{{ "/images/favicon.png"  | absolute_url }}">
 </head>
+
+<style>
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+
   
 <img src="/images/photo_3.jpg" alt="image" width="300" align="left" style="display: block; margin: 5px;" />
 
