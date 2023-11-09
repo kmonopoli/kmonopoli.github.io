@@ -11,19 +11,19 @@ a:link {
 }
 
 a:visited {
-  color: '#55A9A7';
+  color: "#55A9A7";
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: '#176764';
+  color: "#176764";
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: '#176764';
+  color: "#176764";
   background-color: transparent;
   text-decoration: underline;
 }
@@ -63,7 +63,7 @@ I conducted my undergraduate studies at the Colorado School of Mines and the Uni
 # Publications
 *[[ORCID: 0000-0002-8615-4849]](https://orcid.org/0000-0002-8615-4849)*
 
-**Monopoli, K.R.,** Korkin, D., Khvorova, A. (2023) Asymmetric trichotomous data partitioning enables development of predictive machine learning models using limited siRNA efficacy datasets. *Molecular Therapy of Nucelic Acids.* [[article]](https://www.cell.com/molecular-therapy-family/nucleic-acids/pdf/S2162-2531(23)00160-9.pdf?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2162253123001609%3Fshowall%3Dtrue)
+**Monopoli, K.R.,** Korkin, D., Khvorova, A. (2023) Asymmetric trichotomous data partitioning enables development of predictive machine learning models using limited siRNA efficacy datasets. *Molecular Therapy Nucelic Acids.* [[article]](https://www.cell.com/molecular-therapy-family/nucleic-acids/pdf/S2162-2531(23)00160-9.pdf?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2162253123001609%3Fshowall%3Dtrue)
 
 Shmushkovich, T.,\* **Monopoli, K.R.,\*** Homsy, D., Leyfer, D., Betancur-Boissel, M., Khvorova, A., Wolfson, A. (2018) Functional features defining the efficacy of cholesterol-conjugated, self-deliverable, chemically modified siRNAs. *Nucleic Acids Research.* \***equally-contributing first authors** [[article]](https://academic.oup.com/nar/article/46/20/10905/5085976)
 
