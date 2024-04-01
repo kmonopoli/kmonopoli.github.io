@@ -66,7 +66,7 @@ I conducted my undergraduate studies at the Colorado School of Mines and the Uni
 
 Shmushkovich, T.,\* **Monopoli, K.R.,\*** Homsy, D., Leyfer, D., Betancur-Boissel, M., Khvorova, A., Wolfson, A. (2018) Functional features defining the efficacy of cholesterol-conjugated, self-deliverable, chemically modified siRNAs. *Nucleic Acids Research.* \***equally-contributing first authors** [[article]](https://academic.oup.com/nar/article/46/20/10905/5085976)
 
-Alterman J.F., Tang Q., Gross K.Y., Fakih H.H., Jackson S.O., UI Abideen M.Z., **Monopoli K.R.**, Blanchard C., Bouix-Peter C., Portal T., Harris J.E., Khvorova A. (2024) Multispecies-targeting siRNAs for the modulation of JAK1 in the skin. *Accepted, Molecular Therapy Nucelic Acids.*
+Tang Q., Gross K.Y., Fakih H.H., Jackson S.O., UI Abideen M.Z., **Monopoli K.R.**, Blanchard C., Bouix-Peter C., Portal T., Harris J.E., Khvorova A., Alterman J.F. (2024) Multispecies-targeting siRNAs for the modulation of JAK1 in the skin. *Molecular Therapy Nucelic Acids.* [[article]](https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(24)00004-0)
 
 Tang, Q., Fakih, H., Abideen, M., Hildebrand, S., Afshari, K., Gross, K., Sousa, J., Maebius, A., Bartholdy, C., Søgaard, P., Jackerott, M., Hariharan, V., Summers, A., Fan, X., Okamura, K., **Monopoli, K.R.**, Cooper, D., Echeverria, D., Bramato, B., McHugh, N., Furgal, R., Biscans, A., Chuprin, J., Haddadi, N., Sherman, S., Yıldız-Altay, Ü., Bouix-Peter, C., Blanchard, C., Clauss, A., Alterman, J., Khvorova, A. (2023) Rational design of a JAK1-selective siRNA inhibitor for the modulation of autoimmunity in the skin. *Nature Communications.*[[article]](https://www.nature.com/articles/s41467-023-42714-4)
 
