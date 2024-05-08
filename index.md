@@ -57,7 +57,8 @@ I conducted my undergraduate studies at the Colorado School of Mines and the Uni
 *[[GitHub]](https://github.com/kmonopoli)*  
 *[[LinkedIn]](https://www.linkedin.com/in/kathrynmonopoli/)*  
 *[[CV]](downloads/cv_kathryn_monopoli.pdf)*  
-*[[Contact]](mailto:kathryn.monopoli2@umassmed.edu)*  
+*[[Resume]](downloads/resume_kathryn_monopoli.pdf)*  
+*[[Contact]](mailto:krmonopoli@gmail.com)*  
 
 # Publications
 *[[ORCID: 0000-0002-8615-4849]](https://orcid.org/0000-0002-8615-4849)*
