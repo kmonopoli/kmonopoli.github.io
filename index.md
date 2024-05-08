@@ -1,6 +1,5 @@
 <head>
-  <link rel="shortcut icon" type="image/png" 
-      href="{{ "/images/favicon.png"  | absolute_url }}">
+   <link rel="shortcut icon" type="image/x-icon" href="images/rainbow_brain_for_icons_1.ico">
 </head>
 
 <style>
