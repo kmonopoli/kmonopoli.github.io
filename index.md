@@ -1,5 +1,5 @@
 <head>
-   <link rel="shortcut icon" type="image/x-icon" href="/images/rainbow_brain_for_icons.ico?">
+   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 </head>
 
 <style>
