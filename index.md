@@ -1,4 +1,4 @@
-\<head\> <link rel="shortcut icon" type="image/x-icon" href="rainbow_favicon.ico">\</head\>
+\<head\> <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">\</head\>
 
 <style>
 a:link {
