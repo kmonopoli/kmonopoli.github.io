@@ -26,6 +26,13 @@
   
 <img src="/images/photo_3.jpg" alt="image" width="300" align="left" style="display: block;  margin-right: 5px; margin: 5px;" />
 
+*[[GitHub]](https://github.com/kmonopoli)*  
+*[[LinkedIn]](https://www.linkedin.com/in/kathrynmonopoli/)*  
+*[[CV]](downloads/cv_kathryn_monopoli.pdf)*  
+*[[Resume]](downloads/resume_kathryn_monopoli.pdf)*  
+*[[Contact]](mailto:krmonopoli@gmail.com)*  
+*[[ORCID: 0000-0002-8615-4849]](https://orcid.org/0000-0002-8615-4849)*
+
 I am a Ph.D. candidate studying Bioinformatics in the [Quantitative and Computational Biosciences & Bioengineering](https://umassmed.edu/es/gsbs/current-students/computational-biomedical-sciences-and-engineering/) Joint Graduate Program at University of Massachusetts Medical School and Worcester Polytechnic Institute. I am advised by [Anastasia Khvorova](https://www.umassmed.edu/khvorovalab/) and [Dmitry Korkin](http://korkinlab.org). I transitioned from the bench where I studied membrane protein biophysics, to computational research where I am applying machine learning techniques to study small interfering RNAs (siRNAs).
 
 My research bridges biology with computer science to advance therapeutic development and, more generally, expand our understanding of biological processes. My primary focus is on applying machine learning techniques to probe the siRNA gene silencing mechanism and develop siRNA sequence design algorithms. I am passionate about increasing access to advanced computational algorithms for life science researchers without computational training, through developing easy-to-use computational tools that do not require any computer programming knowledge. 
@@ -48,11 +55,7 @@ I conducted my undergraduate studies at the Colorado School of Mines and the Uni
 **Intern** – Antibody Discovery  
 &nbsp;&nbsp;&nbsp;Biogen  
 
-*[[GitHub]](https://github.com/kmonopoli)*  
-*[[LinkedIn]](https://www.linkedin.com/in/kathrynmonopoli/)*  
-*[[CV]](downloads/cv_kathryn_monopoli.pdf)*  
-*[[Resume]](downloads/resume_kathryn_monopoli.pdf)*  
-*[[Contact]](mailto:krmonopoli@gmail.com)*  
+
 
 # Publications
 *[[ORCID: 0000-0002-8615-4849]](https://orcid.org/0000-0002-8615-4849)*
