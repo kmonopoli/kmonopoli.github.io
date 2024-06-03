@@ -22,36 +22,16 @@
     background-color: transparent;
     text-decoration: underline;
   }
-  h3 {
+  h2 {
     text-align: center; 
     font-style: oblique; 
     font-weight: bold; 
     font-family: Georgia, serif;
   }
-  h3:link {
-    color: #176764;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  h3:visited {
-    color: #55A9A7;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  h3:hover {
-    color: #176764;
-    background-color: transparent;
-    text-decoration: underline;
-  }
-  h3:active {
-    color: #176764;
-    background-color: transparent;
-    text-decoration: underline;
-  }
    
 </style>
 
-[GitHub](https://github.com/kmonopoli)  |  [LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)  |  [CV](downloads/cv_kathryn_monopoli.pdf)  |  [Resume](downloads/resume_kathryn_monopoli.pdf)  |  [Contact](mailto:krmonopoli@gmail.com)  |  [Publications](https://orcid.org/0000-0002-8615-4849)
+## [GitHub](https://github.com/kmonopoli)  |  [LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)  |  [CV](downloads/cv_kathryn_monopoli.pdf)  |  [Resume](downloads/resume_kathryn_monopoli.pdf)  |  [Contact](mailto:krmonopoli@gmail.com)  |  [Publications](https://orcid.org/0000-0002-8615-4849)
 
 <img src="/images/photo_3.jpg" alt="image" width="300" align="left" style="display: block;  margin-right: 5px; margin: 5px;" />
 
