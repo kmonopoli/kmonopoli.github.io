@@ -1,29 +1,26 @@
 <head> <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"></head>
 
 <style>
-a:link {
-  color: #176764;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:visited {
-  color: #55A9A7;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #176764;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-a:active {
-  color: #176764;
-  background-color: transparent;
-  text-decoration: underline;
-}
+  a:link {
+    color: #176764;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: #55A9A7;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #176764;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: #176764;
+    background-color: transparent;
+    text-decoration: underline;
+  }
 </style>
 
   
