@@ -25,7 +25,7 @@
   h3 {text-align: center; font-style: oblique; font-weight: bold; font-family: Georgia, serif;} 
 </style>
 
-<h3> [GitHub](https://github.com/kmonopoli)  |  [LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)  |  [CV](downloads/cv_kathryn_monopoli.pdf)  |  [Resume](downloads/resume_kathryn_monopoli.pdf)  |  [Contact](mailto:krmonopoli@gmail.com)  |  [ORCID: 0000-0002-8615-4849](https://orcid.org/0000-0002-8615-4849) </h3>
+<h3> [GitHub](https://github.com/kmonopoli)  |  [LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)  |  [CV](downloads/cv_kathryn_monopoli.pdf)  |  [Resume](downloads/resume_kathryn_monopoli.pdf)  |  [Contact](mailto:krmonopoli@gmail.com)  |  [Publications](https://orcid.org/0000-0002-8615-4849) </h3>
 
 <img src="/images/photo_3.jpg" alt="image" width="300" align="left" style="display: block;  margin-right: 5px; margin: 5px;" />
 
