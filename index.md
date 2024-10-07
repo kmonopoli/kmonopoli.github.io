@@ -10,7 +10,7 @@
   a:visited {
     color: #55A9A7;
     background-color: transparent;
-    text-decoration: none;
+    text-decoration: underline;
   }
   a:hover {
     color: #176764;
@@ -26,7 +26,7 @@
     text-align: center; 
     font-style: oblique; 
     font-weight: bold; 
-    font-family: Georgia, serif;
+    font-family: Century Gothic, sans-serif;
   }
    
 </style>
