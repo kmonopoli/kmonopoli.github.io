@@ -33,6 +33,8 @@
 
 ## [GitHub](https://github.com/kmonopoli)  |  [LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)  |  [CV](downloads/cv_kathryn_monopoli.pdf)  |  [Resume](downloads/resume_kathryn_monopoli.pdf)  |  [Contact](mailto:krmonopoli@gmail.com)  |  [Publications](https://orcid.org/0000-0002-8615-4849)
 
+# [Our siRNA Design Algorithm Web Portal is Live Check it Out Here!] (http://sirna-frontend.s3-website.us-east-2.amazonaws.com/search)
+
 <img src="/images/photo_3.jpg" alt="image" width="300" align="left" style="display: block;  margin-right: 5px; margin: 5px;" />
 
 I am a Ph.D. candidate studying Bioinformatics in the [Quantitative and Computational Biosciences & Bioengineering](https://umassmed.edu/es/gsbs/current-students/computational-biomedical-sciences-and-engineering/) Joint Graduate Program at University of Massachusetts Medical School and Worcester Polytechnic Institute. I am advised by [Anastasia Khvorova](https://www.umassmed.edu/khvorovalab/) and [Dmitry Korkin](http://korkinlab.org). I transitioned from the bench where I studied membrane protein biophysics, to computational research where I am applying machine learning techniques to study small interfering RNAs (siRNAs).
