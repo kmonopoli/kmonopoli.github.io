@@ -34,11 +34,11 @@
   background-color: #04AA6D;
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: 15px 26px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: bold;
   margin: 4px 2px;
   cursor: pointer;
@@ -52,7 +52,7 @@
 
 
 <a href="http://sirna-frontend.s3-website.us-east-2.amazonaws.com/search">
-<input type="button" value="Design \n Therapeutic siRNAs" class="button">
+<input type="button" value="Design Therapeutic siRNAs" class="button">
 </a>
 
 ## [GitHub](https://github.com/kmonopoli)  |  [LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)  |  [CV](downloads/cv_kathryn_monopoli.pdf)  |  [Resume](downloads/resume_kathryn_monopoli.pdf)  |  [Contact](mailto:krmonopoli@gmail.com)  |  [Publications](https://orcid.org/0000-0002-8615-4849)
