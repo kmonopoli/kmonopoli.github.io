@@ -24,7 +24,7 @@
   }
   h2 {
     text-align: center; 
-    font-style: oblique; 
+    font-style: none; 
     font-weight: bold; 
     font-family: Century Gothic, sans-serif;
   }
