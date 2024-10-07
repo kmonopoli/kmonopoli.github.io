@@ -45,15 +45,13 @@
 
 </style>
 
-# **[Our siRNA Design Algorithm Web Portal is Live Check it Out Here!](http://sirna-frontend.s3-website.us-east-2.amazonaws.com/search)**
+# **Our siRNA Design Algorithm Web Portal is Live Check it Out!**
 
 
 
 
 
 
-
-<input type="button" class="button" href="http://sirna-frontend.s3-website.us-east-2.amazonaws.com/search" value="Design Therapeutic siRNAs">
 
 
 <a href="http://sirna-frontend.s3-website.us-east-2.amazonaws.com/search">
