@@ -31,9 +31,11 @@
    
 </style>
 
+# [Our siRNA Design Algorithm Web Portal is Live Check it Out Here!](http://sirna-frontend.s3-website.us-east-2.amazonaws.com/search) 
+
 ## [GitHub](https://github.com/kmonopoli)  |  [LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)  |  [CV](downloads/cv_kathryn_monopoli.pdf)  |  [Resume](downloads/resume_kathryn_monopoli.pdf)  |  [Contact](mailto:krmonopoli@gmail.com)  |  [Publications](https://orcid.org/0000-0002-8615-4849)
 
-# [Our siRNA Design Algorithm Web Portal is Live Check it Out Here!] (http://sirna-frontend.s3-website.us-east-2.amazonaws.com/search)
+
 
 <img src="/images/photo_3.jpg" alt="image" width="300" align="left" style="display: block;  margin-right: 5px; margin: 5px;" />
 
