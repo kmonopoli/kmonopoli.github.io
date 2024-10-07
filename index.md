@@ -5,7 +5,7 @@
   a:link {
     color: #176764;
     background-color: transparent;
-    text-decoration: none;
+    text-decoration: underline;
   }
   a:visited {
     color: #55A9A7;
