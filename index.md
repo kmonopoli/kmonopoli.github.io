@@ -38,14 +38,15 @@
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 24px;
+  font-weight: bold;
   margin: 4px 2px;
   cursor: pointer;
 }
 
 </style>
 
-# **Our siRNA Design Algorithm Web Portal is Live Check it Out!**
+## **Our siRNA Design Algorithm Web Portal is Live!**
 
 
 
