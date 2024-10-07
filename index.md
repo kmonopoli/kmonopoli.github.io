@@ -28,10 +28,37 @@
     font-weight: bold; 
     font-family: Century Gothic, sans-serif;
   }
-   
+  
+  
+.button {
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
 </style>
 
 # **[Our siRNA Design Algorithm Web Portal is Live Check it Out Here!](http://sirna-frontend.s3-website.us-east-2.amazonaws.com/search)**
+
+
+
+
+
+
+<button>Default Button</button>
+<a href="#" class="button">Link Button</a>
+<button class="button">Button</button>
+<input type="button" class="button" value="Design Therapeutic siRNAs">
+
+
+
 
 ## [GitHub](https://github.com/kmonopoli)  |  [LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)  |  [CV](downloads/cv_kathryn_monopoli.pdf)  |  [Resume](downloads/resume_kathryn_monopoli.pdf)  |  [Contact](mailto:krmonopoli@gmail.com)  |  [Publications](https://orcid.org/0000-0002-8615-4849)
 
