@@ -8,7 +8,7 @@
     text-decoration: underline;
   }
   a:visited {
-    color: #55A9A7;
+    color: #04AA6D;
     background-color: transparent;
     text-decoration: underline;
   }
