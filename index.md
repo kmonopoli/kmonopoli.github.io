@@ -43,7 +43,7 @@
   margin: 4px 2px;
   cursor: pointer;
   margin: 0;
-  position: center;
+  position: middle;
 
 }
 
@@ -181,7 +181,7 @@ BIOLOGY 311: **General Genetics** (UMass Amherst) – Teaching Assistant (Fall 2
 
 
 ## Fellowships and Awards
-Travel Fellowship - Oligonucleotide Therapeutics Society 2023 Annual Meeting 
+Travel Fellowship - Oligonucleotide Therapeutics Society 2023 Annual Meeting  
 iRNA COSI Travel Fellowship - ISMB 2022 Conference  
 Poster Award – Oligonucleotide Therapeutics Society 2021 Annual Meeting  
 Fuller Scholarship  
