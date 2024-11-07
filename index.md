@@ -30,7 +30,7 @@
   }
 
 .container { 
-  height: 200px;
+  height: 100px;
   position: relative;
   border: none; 
 }
