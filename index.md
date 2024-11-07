@@ -44,6 +44,26 @@
   cursor: pointer;
 }
 
+.container {
+  height: 200px;
+  position: relative;
+  border: 3px solid green;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+<div class="container">
+  <div class="center">
+    <button>Centered Button</button>
+  </div>
+</div>
 </style>
 
 ## **The siRNA Design Algorithm Web Portal is Live!**
@@ -54,6 +74,8 @@
 <a href="http://sirna-frontend.s3-website.us-east-2.amazonaws.com/search">
 <input type="button" value="Design Therapeutic siRNAs" class="button">
 </a>
+
+
 
 ## [GitHub](https://github.com/kmonopoli)  |  [LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)  |  [CV](downloads/cv_kathryn_monopoli.pdf)  |  [Resume](downloads/resume_kathryn_monopoli.pdf)  |  [Contact](mailto:krmonopoli@gmail.com)  |  [Publications](https://orcid.org/0000-0002-8615-4849)
 
