@@ -93,8 +93,10 @@ I conducted my undergraduate studies at the Colorado School of Mines and the Uni
 &nbsp;&nbsp;&nbsp;Biogen  
 
 
-<div id="publications"></div>
+
+
 # Publications
+<div id="publications"></div>
 
 **Monopoli KR**, Sostek B, Gross K, Alterman J, Korkin D, Khvorova A. (2024) MODsiGNer: fully modified siRNA design application applying artificial intelligence with deep sequence feature embedding. *In preparation for submission to Nature Methods.*
 
