@@ -3,7 +3,7 @@
 
 <style>
   a:link {
-    color: #176764;
+    color: #04AA6D;
     background-color: transparent;
     text-decoration: underline;
   }
@@ -13,12 +13,12 @@
     text-decoration: underline;
   }
   a:hover {
-    color: #176764;
+    color: #0a6343;
     background-color: transparent;
     text-decoration: underline;
   }
   a:active {
-    color: #176764;
+    color: #04AA6D;
     background-color: transparent;
     text-decoration: underline;
   }
