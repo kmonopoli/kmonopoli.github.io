@@ -27,6 +27,7 @@
     text-align: center; 
     font-weight: bold;
   }
+  
   h2 {
     text-align: center; 
     font-style: none; 
