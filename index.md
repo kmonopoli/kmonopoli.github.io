@@ -22,6 +22,11 @@
     background-color: transparent;
     text-decoration: underline;
   }
+
+  h1 {
+    text-align: center; 
+    font-weight: 900;
+  }
   h2 {
     text-align: center; 
     font-style: none; 
@@ -68,7 +73,6 @@
   border: 2px solid #04AA6D;
   border-radius: 8px;
   color: #04AA6D;
-  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
 </style>
@@ -76,9 +80,9 @@
 </head>
 
   
-<div class="tip" markdown="1">
-  # **The siRNA Design Algorithm Web Portal is Live!**
-</div>
+<h1>
+  The siRNA Design Algorithm Web Portal is Live!
+</h1>
 
 <div class="container">
   <div class="center">
