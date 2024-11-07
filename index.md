@@ -63,8 +63,9 @@
 
 
 
-## [GitHub](https://github.com/kmonopoli)  |  [LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)  |  [CV](downloads/cv_kathryn_monopoli.pdf)  |  [Contact](mailto:krmonopoli@gmail.com)  |  [Publications](# Publications)
+## [GitHub](https://github.com/kmonopoli)  |  [LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)  |  [CV](downloads/cv_kathryn_monopoli.pdf)  |  [Contact](mailto:krmonopoli@gmail.com)  |  [Publications](#Publications)
 
+<a href="#publications">**Publications**</a>
 
 
 <img src="/images/photo_3.jpg" alt="image" width="300" align="left" style="display: block;  margin-right: 5px; margin: 5px;" />
@@ -92,7 +93,7 @@ I conducted my undergraduate studies at the Colorado School of Mines and the Uni
 &nbsp;&nbsp;&nbsp;Biogen  
 
 
-
+<div id="publications"></div>
 # Publications
 
 **Monopoli KR**, Sostek B, Gross K, Alterman J, Korkin D, Khvorova A. (2024) MODsiGNer: fully modified siRNA design application applying artificial intelligence with deep sequence feature embedding. *In preparation for submission to Nature Methods.*
