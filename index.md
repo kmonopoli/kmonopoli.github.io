@@ -43,8 +43,8 @@
   margin: 4px 2px;
   cursor: pointer;
   margin: 0;
-  position: relative;
-  left: 50%;
+  position: center;
+
 }
 
 </style>
@@ -60,7 +60,7 @@
 
 
 
-## [GitHub](https://github.com/kmonopoli)  |  [LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)  |  [CV](downloads/cv_kathryn_monopoli.pdf)  |  [Contact](mailto:krmonopoli@gmail.com)  |  [Publications](#publications)
+## [GitHub](https://github.com/kmonopoli)  |  [LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)  |  [CV](downloads/cv_kathryn_monopoli.pdf)  |  [Contact](mailto:krmonopoli@gmail.com)  |  [Publications](#publications)  |  [Patents](#patents)
 
 
 <img src="/images/photo_3.jpg" alt="image" width="300" align="left" style="display: block;  margin-right: 5px; margin: 5px;" />
@@ -119,6 +119,24 @@ Romano FB, Rossi KC, Tang Y, Monopoli KR, Ross JL, Heuck AP. (2016) [Type 3 Secr
 
 *[[ORCID: 0000-0002-8615-4849]](https://orcid.org/0000-0002-8615-4849)*
 
+## Patents
+<div id="patents"></div>
+
+Oligonucleotides for MAPT Modulation – US Utility Patent Application No. 62/991,405, 3/18/2020  
+Oligonucleotides for SNCA Modulation – US Utility Patent Application No. 62/991,406, 3/18/2020  
+Oligonucleotides for MSH3 Modulation* – US Patent Application No. 63/012,603, 4/20/2020  
+Oligonucleotides for MAPT Modulation – US Utility Patent Application No. 63/071,106, 8/27/2020  
+Oligonucleotides for SNCA Modulation – US Utility Patent Application No. 63/071,115, 8/27/2020  
+Oligonucleotides for SARS-CoV-2 Modulation – US Utility Patent Application No. 63/031,222, 5/28/2020  
+Oligonucleotides for SARS-CoV-2 Modulation – US Utility Patent Application No. 63/084,817, 9/29/2020  
+Oligonucleotides for MAPT Modulation* – US Patent Application No. 17/204,480, 3/17/2021  
+Oligonucleotides for MAPT Modulation – Intl Patent Application No. PCT/US2021/022688, 3/17/2021  
+Oligonucleotides for SNCA Modulation* – US Patent Application No. 17/204,483, 3/17/2021  
+Oligonucleotides for SNCA Modulation – Intl Patent Application No. PCT/US2021/022748, 3/17/2021  
+Oligonucleotides for SARS-CoV-2 Modulation – US Patent Application No. 17/333,839, 5/28/2021  
+Oligonucleotides for SARS-CoV-2 Modulation – Intl Patent App No. PCT/US2021/035002, 5/28/2021  
+
+\**Licensed to Atalanta Therapeutics*
 
 # Talks
 Monopoli, K.R., Korkin, D., Khvorova, A. Trichotomous classification on small, limited datasets enables predictive model development for therapeutic small interfering RNA. Talk presented at the Intelligent Systems for Molecular Biology (ISMB); 2022 Jul 10; Madison, WI.[[recorded talk]](https://youtu.be/V1cT0HU0lJY)
@@ -153,20 +171,6 @@ Monopoli, K.R. Advised by Prof. Alejandro Heuck. “Characterization of the Reco
 
 Monopoli, K.R. Advised by Prof. Alejandro Heuck. “Characterization of the Pseudomonas aeruginosa Type III Secretion System Translocon in Model Membranes.” Undergraduate Thesis. University of Massachusetts, Amherst, May 2014. 
 
-## Patents and Applications
-Oligonucleotides for MAPT Modulation – US Utility Patent Application No. 62/991,405, 3/18/2020  
-Oligonucleotides for SNCA Modulation – US Utility Patent Application No. 62/991,406, 3/18/2020  
-Oligonucleotides for MSH3 Modulation – US Patent Application No. 63/012,603, 4/20/2020  
-Oligonucleotides for MAPT Modulation – US Utility Patent Application No. 63/071,106, 8/27/2020  
-Oligonucleotides for SNCA Modulation – US Utility Patent Application No. 63/071,115, 8/27/2020  
-Oligonucleotides for SARS-CoV-2 Modulation – US Utility Patent Application No. 63/031,222, 5/28/2020  
-Oligonucleotides for SARS-CoV-2 Modulation – US Utility Patent Application No. 63/084,817, 9/29/2020 [[view]](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20230021431)  
-Oligonucleotides for MAPT Modulation – US Patent Application No. 17/204,480, 3/17/2021  
-Oligonucleotides for MAPT Modulation – Intl Patent Application No. PCT/US2021/022688, 3/17/2021  
-Oligonucleotides for SNCA Modulation – US Patent Application No. 17/204,483, 3/17/2021  
-Oligonucleotides for SNCA Modulation – Intl Patent Application No. PCT/US2021/022748, 3/17/2021  
-Oligonucleotides for SARS-CoV-2 Modulation – US Patent Application No. 17/333,839, 5/28/2021  
-Oligonucleotides for SARS-CoV-2 Modulation – Intl Patent App No. PCT/US2021/035002, 5/28/2021  
 
 ## Teaching Experience
 CS 2102: **Advanced Object-Oriented Design Concepts** (WPI) – Teaching Assistant (Fall 2019)  
