@@ -108,27 +108,32 @@ I conducted my undergraduate studies at the Colorado School of Mines and the Uni
 
 
 # Publications
+
+**Monopoli KR**, Sostek B, Gross K, Alterman J, Korkin D, Khvorova A. (2024) MODsiGNer: fully modified siRNA design application applying artificial intelligence with deep sequence feature embedding. *In preparation for submission to Nature Methods.*
+
+Weiss A, Gilbert JW, Flores IVR, Belgrad J, Ferguson C, Dogan EO, Wightman N, Mocarski K, Echeverria D, Summers A, Bramato B, McHugh N, Furgal R, Yamada N, Cooper D, **Monopoli KR**, Godinho BMDC, Hassler MR, Yamada K, Greer P, Henninger N, Brown RH Jr, Khvorova A. (2024) [[RNAi-mediated silencing of SOD1 profoundly extends survival and functional outcomes in ALS mice]](https://www.biorxiv.org/content/10.1101/2024.06.20.599943v1). *bioRxiv*. 
+
+Rivera Flores IV, **Monopoli KR**, Jackson S, Echeverria D, O'Reilly D, Brown RH, Khvorova A. (2024) [[Near Sequence Homology Does Not Guarantee siRNA Cross-Species Efficacy]](https://www.liebertpub.com/doi/10.1089/nat.2024.0030?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed). *Nucleic Acid Therapeutics*.
+
+Tang Q, Gross KY, Fakih HH, Jackson SO, UI Abideen MZ, **Monopoli KR**, Blanchard C, Bouix-Peter C, Portal T, Harris JE, Khvorova A, Alterman JF. (2024) [[Multispecies-targeting siRNAs for the modulation of JAK1 in the skin]](). *Molecular Therapy Nucleic Acids*.
+
+**Monopoli KR**, Korkin D, Khvorova A. (2023) [[Asymmetric trichotomous data partitioning enables development of predictive machine learning models using limited siRNA efficacy datasets]](https://www.cell.com/molecular-therapy-family/nucleic-acids/pdf/S2162-2531(23)00160-9.pdf?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2162253123001609%3Fshowall%3Dtrue). *Molecular Therapy Nucleic Acids*.
+
+Davis SM, Hildebrand S, **Monopoli KR**, MacMillan H, Sousa J, Cooper D, Ly Socheata; Echeverria D, et al. (2023) Guidelines for Designing Therapeutic siRNA. *Under review with NAR.*
+
+Hariharan VN, Shin M, Chang CW, O’Reilly D, Biscans A, Yamada K, Guo Z, Somasundaran M, Tang Q, **Monopoli KR**, Krishnamurthy PM, Devi G, McHugh N, Cooper DA, Echeverria D, Cruz J, Chan IL, Liu P, Lim SY, McConnell J, Singh SP, Hildebrand S, Sousa J, Davis SM, Kennedy Z, Ferguson C, Godinho BMDC, Thillier Y, Caiazzi J, Ly S, Muhuri M, Kelly K, Humphries F, Cousineau A, Parsi KM, Li Q, Wang Y, Maehr R, Gao G, Korkin D, McDougall WM, Finberg RW, Fitzgerald KA, Wang JP, Watts JK, Khvorova A. (2023) [[Divalent siRNAs are bioavailable in the lung and efficiently block SARS-CoV-2 infection]](https://www.pnas.org/doi/10.1073/pnas.2219523120). *PNAS*. 
+
+O'Reilly D, Belgrad J, Ferguson C, Summers A, Sapp E, McHugh C, Mathews E, Boudi A, Buchwald J, Ly S, Moreno D, Furgal R, Luu E, Kennedy Z, Hariharan V, **Monopoli KR**, Yang XW, Carroll J, DiFiglia M, Aronin N, Khvorova A. (2023) [[Divalent siRNA Mediated Silencing of MSH3 Blocks Somatic Repeat Expansion in Mouse Models of Huntington’s Disease]](https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(23)00503-8). *Molecular Therapy.*
+
+Tang Q, Fakih HH, Zain Ui Abideen M, Hildebrand SR, Afshari K, Gross KY, Sousa J, Maebius AS, Bartholdy C, Søgaard PP, Jackerott M, Hariharan V, Summers A, Fan X, Okamura K, **Monopoli KR**, Cooper DA, Echeverria D, Bramato B, McHugh N, Furgal RC, Dresser K, Winter SJ, Biscans A, Chuprin J, Haddadi NS, Sherman S, Yıldız-Altay Ü, Rashighi M, Richmond JM, Bouix-Peter C, Blanchard C, Clauss A, Alterman JF, Khvorova A, Harris JE. (2023) [[Rational design of a JAK1-selective siRNA inhibitor for the modulation of autoimmunity in the skin]](https://www.nature.com/articles/s41467-023-42714-4). *Nature Communications.*
+
+Tang Q, Sousa J, Echeverria D, Fan X, Hsueah YC, Afshari K, MeHugh N, Cooper DA, Vangjeli L, **Monopoli KR**, et al. (2022) [[RNAi-based modulation of IFN-γ signaling in skin]](https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(22)00249-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1525001622002490%3Fshowall%3Dtrue). *Molecular Therapy.*
+
+Shmushkovich, T.,\* **Monopoli, K.R.,\*** Homsy, D., Leyfer, D., Betancur-Boissel, M., Khvorova, A., Wolfson, A. (2018) [[Functional features defining the efficacy of cholesterol-conjugated, self-deliverable, chemically modified siRNAs]](https://academic.oup.com/nar/article/46/20/10905/5085976). *Nucleic Acids Research.* \***equally-contributing first authors** 
+
+Romano FB, Rossi KC, Tang Y, Monopoli KR, Ross JL, Heuck AP. (2016) [[Type 3 Secretion translocators spontaneously assemble a hexadecameric transmembrane complex]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5995524/). *JBC.*
+
 *[[ORCID: 0000-0002-8615-4849]](https://orcid.org/0000-0002-8615-4849)*
-
-**Monopoli, K.R.,** Korkin, D., Khvorova, A. (2023) Asymmetric trichotomous data partitioning enables development of predictive machine learning models using limited siRNA efficacy datasets. *Molecular Therapy Nucelic Acids.* [[article]](https://www.cell.com/molecular-therapy-family/nucleic-acids/pdf/S2162-2531(23)00160-9.pdf?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2162253123001609%3Fshowall%3Dtrue)
-
-Shmushkovich, T.,\* **Monopoli, K.R.,\*** Homsy, D., Leyfer, D., Betancur-Boissel, M., Khvorova, A., Wolfson, A. (2018) Functional features defining the efficacy of cholesterol-conjugated, self-deliverable, chemically modified siRNAs. *Nucleic Acids Research.* \***equally-contributing first authors** [[article]](https://academic.oup.com/nar/article/46/20/10905/5085976)
-
-Tang Q., Gross K.Y., Fakih H.H., Jackson S.O., UI Abideen M.Z., **Monopoli K.R.**, Blanchard C., Bouix-Peter C., Portal T., Harris J.E., Khvorova A., Alterman J.F. (2024) Multispecies-targeting siRNAs for the modulation of JAK1 in the skin. *Molecular Therapy Nucelic Acids.* [[article]](https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(24)00004-0)
-
-Tang, Q., Fakih, H., Abideen, M., Hildebrand, S., Afshari, K., Gross, K., Sousa, J., Maebius, A., Bartholdy, C., Søgaard, P., Jackerott, M., Hariharan, V., Summers, A., Fan, X., Okamura, K., **Monopoli, K.R.**, Cooper, D., Echeverria, D., Bramato, B., McHugh, N., Furgal, R., Biscans, A., Chuprin, J., Haddadi, N., Sherman, S., Yıldız-Altay, Ü., Bouix-Peter, C., Blanchard, C., Clauss, A., Alterman, J., Khvorova, A. (2023) Rational design of a JAK1-selective siRNA inhibitor for the modulation of autoimmunity in the skin. *Nature Communications.*[[article]](https://www.nature.com/articles/s41467-023-42714-4)
-
-Hariharan VN, Shin M, Chang CW, O'Reilly D, Biscans A, Yamada K, Guo Z, Somasundaran M, Tang Q, **Monopoli K**, Krishnamurthy PM, Devi G, McHugh N, Cooper DA, Echeverria D, Cruz J, Chan IL, Liu P, Lim SY, McConnell J, Singh SP, Hildebrand S, Sousa J, Davis SM, Kennedy Z, Ferguson C, Godinho BMDC, Thillier Y, Caiazzi J, Ly S, Muhuri M, Kelly K, Humphries F, Cousineau A, Parsi KM, Li Q, Wang Y, Maehr R, Gao G, Korkin D, McDougall WM, Finberg RW, Fitzgerald KA, Wang JP, Watts JK, Khvorova A. (2023) Divalent siRNAs are bioavailable in the lung and efficiently block SARS-CoV-2 infection. *PNAS.* [[article]](https://www.pnas.org/doi/10.1073/pnas.2219523120)
-
-Davis, S.M., Hildebrand, S., **Monopoli, K.R.**, MacMillan, H., Sousa, J., Cooper, D., Ly, S., Echeverria, D., Mchugh, N., Ferguson, C., Coles, A., Hariharan, V., O'Reilly, D., Tang, Q., Furgal, R., Buchwald, J., Yamada, K., Gilbert, J., Knox, E., Alterman, J., Pineda, Y., Weston, C., Baer, C., Pai, A., Khvorova, A. (2024) Systematic Analysis of siRNA and mRNA Features Impacting Fully Chemically Modified siRNA Efficacy. *In review with NAR.*
-
-O'Reilly, D., Belgrad, J., Ferguson, C., Summers, A., Sapp, E., McHugh, C., Mathews, E., Boudi, A., Buchwald, J., Ly, S., Moreno, D., Furgal, R., Luu, E., Kennedy, Z., Hariharan, V., **Monopoli, K.**, William, X., Carroll, J., DiFiglia, M., Aronin, N., Khvorova, A.(2023) Di-valent siRNA Mediated Silencing of MSH3 Blocks Somatic Repeat Expansion in Mouse Models of Huntington’s Disease. *Molecular Therapy.* [[article]](https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(23)00503-8)
-
-Tang, Q., Sousa, J., Echeverria, D., Fan, X., Hsueah, Y.C., Afshari, K., MeHugh, N., Cooper, D.A., Vangjeli, L., **Monopoli, K.R.**, Okamura K, Biscans A, Clauss A, Harris JE, Khvorova A. (2022) RNAi-based modulation of IFN-γ signaling in skin. *Molecular Therapy.* [[article]](https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(22)00249-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1525001622002490%3Fshowall%3Dtrue)
-
-Romano, F.B., Rossi, K.C., Tang, Y., **Monopoli, K.R.**, Ross, J.L., Heuck, A.P. (2016) Type 3 Secretion translocators spontaneously assemble a hexadecameric transmembrane complex. *Journal of Biological Chemistry.* [[article]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5995524/)
-
-
 
 
 # Talks
