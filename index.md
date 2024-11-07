@@ -59,6 +59,7 @@
   cursor: pointer;
   margin: 0;  
   transition-duration: 0.4s;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 4px 8px 0 rgba(0,0,0,0.19);
 
 }
 
@@ -67,8 +68,8 @@
   border: 2px solid #04AA6D;
   border-radius: 8px;
   color: #04AA6D;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
-
 
 </style>
 
