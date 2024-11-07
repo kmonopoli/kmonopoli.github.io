@@ -50,11 +50,6 @@
   transform: translate(-50%, -50%);
 }
 
-<div class="container">
-  <div class="center">
-    <button>Centered Button</button>
-  </div>
-</div>
 </style>
 
 ## **The siRNA Design Algorithm Web Portal is Live!**
