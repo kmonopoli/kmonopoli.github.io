@@ -154,7 +154,7 @@ Romano FB, Rossi KC, Tang Y, Monopoli KR, Ross JL, Heuck AP. (2016) [Type 3 Secr
 
 *[[ORCID: 0000-0002-8615-4849]](https://orcid.org/0000-0002-8615-4849)*
 
-## Patents
+# Patents
 <div id="patents"></div>
 
 Oligonucleotides for MAPT Modulation – US Utility Patent Application No. 62/991,405, 3/18/2020  
