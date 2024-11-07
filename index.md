@@ -62,7 +62,7 @@
 
 
 
-## [GitHub](https://github.com/kmonopoli)  |  [LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)  |  [CV](downloads/cv_kathryn_monopoli.pdf)  |  [Contact](mailto:krmonopoli@gmail.com)  |  [Publications](#Publications)
+## [GitHub](https://github.com/kmonopoli)  |  [LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)  |  [CV](downloads/cv_kathryn_monopoli.pdf)  |  [Contact](mailto:krmonopoli@gmail.com)  |  [Publications](#publications)
 
 <a href="#publications">**Publications**</a>
 
