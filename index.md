@@ -87,7 +87,7 @@
 
 
 <a href="http://sirna-frontend.s3-website.us-east-2.amazonaws.com/search">
-<input type="button" value="Design Therapeutic siRNAs" class="container center button">
+<input type="button" value="Design Therapeutic siRNAs" class="button">
 </a>
 
 
