@@ -69,16 +69,25 @@
   color: #04AA6D;
 }
 
+
 </style>
 
 </head>
 <body>
+  
 <h2>The siRNA Design Algorithm Web Portal is Live!</h2>
 
-<button class="button button">Green</button>
+<button class="button">Green</button>
+
+<div class="container">
+  <div class="center">
+    <button class="button">Green</button>
+  </div>
+</div>
+
 
 <a href="http://sirna-frontend.s3-website.us-east-2.amazonaws.com/search">
-<input type="button" value="Design Therapeutic siRNAs" class="button">
+<input type="button" value="Design Therapeutic siRNAs" class="container center button">
 </a>
 
 
