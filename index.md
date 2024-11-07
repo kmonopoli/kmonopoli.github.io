@@ -53,6 +53,8 @@
 
 .button:hover {
   background-color: white;
+  border: 2px solid #04AA6D;
+  border-radius: 8px;
   color: #04AA6D;
 }
 
