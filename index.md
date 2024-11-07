@@ -76,7 +76,9 @@
 </head>
 
   
-<h1>The siRNA Design Algorithm Web Portal is Live!</h1>
+<div class="tip" markdown="1">
+  # **The siRNA Design Algorithm Web Portal is Live!**
+</div>
 
 <div class="container">
   <div class="center">
