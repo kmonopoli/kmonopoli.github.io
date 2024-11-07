@@ -77,7 +77,7 @@
   
 <h2>The siRNA Design Algorithm Web Portal is Live!</h2>
 
-<button class="button">Green</button>
+<button class="button">Test1</button>
 
 <div class="container">
   <div class="center">
