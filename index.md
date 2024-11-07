@@ -82,13 +82,14 @@
 <div class="container">
   <div class="center">
     <button class="button">Test</button>
+    <a href="http://sirna-frontend.s3-website.us-east-2.amazonaws.com/search">
+      <input type="button" value="Design Therapeutic siRNAs" class="button">
+  </a>
   </div>
 </div>
 
 
-<a href="http://sirna-frontend.s3-website.us-east-2.amazonaws.com/search">
-<input type="button" value="Design Therapeutic siRNAs" class="button">
-</a>
+
 
 
 
