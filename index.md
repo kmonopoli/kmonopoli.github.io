@@ -32,7 +32,7 @@
 .container { 
   height: 200px;
   position: relative;
-  border: 3px solid green; 
+  border: none; 
 }
 
 .center {
@@ -75,21 +75,15 @@
 </head>
 
   
-<h2>The siRNA Design Algorithm Web Portal is Live!</h2>
-
-<button class="button">Test1</button>
+<h1>The siRNA Design Algorithm Web Portal is Live!</h1>
 
 <div class="container">
   <div class="center">
-    <button class="button">Test</button>
     <a href="http://sirna-frontend.s3-website.us-east-2.amazonaws.com/search">
       <input type="button" value="Design Therapeutic siRNAs" class="button">
   </a>
   </div>
 </div>
-
-
-
 
 
 
