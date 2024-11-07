@@ -42,15 +42,6 @@
   font-weight: bold;
   margin: 4px 2px;
   cursor: pointer;
-}
-
-.container {
-  height: 200px;
-  position: relative;
-  border: 3px solid green;
-}
-
-.center {
   margin: 0;
   position: absolute;
   top: 50%;
