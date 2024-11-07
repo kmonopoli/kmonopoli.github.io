@@ -33,6 +33,7 @@
 .button {
   background-color: #04AA6D;
   border: none;
+  border-radius: 8px;
   color: white;
   padding: 15px 26px;
   text-align: center;
@@ -43,8 +44,16 @@
   margin: 4px 2px;
   cursor: pointer;
   margin: 0;
+  
   position: middle;
+  
+  transition-duration: 0.4s;
 
+}
+
+.button:hover {
+  background-color: white;
+  color: #04AA6D;
 }
 
 </style>
