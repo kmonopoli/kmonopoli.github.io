@@ -45,8 +45,6 @@
   margin: 0;
   position: relative;
   left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
 }
 
 </style>
@@ -63,8 +61,6 @@
 
 
 ## [GitHub](https://github.com/kmonopoli)  |  [LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)  |  [CV](downloads/cv_kathryn_monopoli.pdf)  |  [Contact](mailto:krmonopoli@gmail.com)  |  [Publications](#publications)
-
-<a href="#publications">**Publications**</a>
 
 
 <img src="/images/photo_3.jpg" alt="image" width="300" align="left" style="display: block;  margin-right: 5px; margin: 5px;" />
