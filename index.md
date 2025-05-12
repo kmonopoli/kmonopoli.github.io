@@ -131,7 +131,7 @@ I conducted my undergraduate studies at the Colorado School of Mines and the Uni
 
 **Monopoli KR**, Sostek B, Gross K, Alterman J, Korkin D, Khvorova A. (2024) MODsiGNer: fully modified siRNA design application applying artificial intelligence with deep sequence feature embedding. *In preparation for submission to Nature Methods.*
 
-Weiss A, Gilbert JW, Flores IVR, Belgrad J, Ferguson C, Dogan EO, Wightman N, Mocarski K, Echeverria D, Summers A, Bramato B, McHugh N, Furgal R, Yamada N, Cooper D, **Monopoli KR**, Godinho BMDC, Hassler MR, Yamada K, Greer P, Henninger N, Brown RH Jr, Khvorova A. (2024) [RNAi-mediated silencing of SOD1 profoundly extends survival and functional outcomes in ALS mice](https://www.biorxiv.org/content/10.1101/2024.06.20.599943v1). *bioRxiv*. 
+Weiss A, Gilbert JW, Flores IVR, Belgrad J, Ferguson C, Dogan EO, Wightman N, Mocarski K, Echeverria D, Summers A, Bramato B, McHugh N, Furgal R, Yamada N, Cooper D, **Monopoli KR**, Godinho BMDC, Hassler MR, Yamada K, Greer P, Henninger N, Brown RH Jr, Khvorova A. (2025) [RNAi-mediated silencing of SOD1 profoundly extends survival and functional outcomes in ALS mice](https://www.sciencedirect.com/science/article/pii/S1525001625003806). *Molecular Therapy*. 
 
 Rivera Flores IV, **Monopoli KR**, Jackson S, Echeverria D, O'Reilly D, Brown RH, Khvorova A. (2024) [Near Sequence Homology Does Not Guarantee siRNA Cross-Species Efficacy](https://www.liebertpub.com/doi/10.1089/nat.2024.0030?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed). *Nucleic Acid Therapeutics*.
 
