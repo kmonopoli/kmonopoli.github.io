@@ -81,9 +81,7 @@
 </head>
 
   
-<h1>
-  The siRNA Design Algorithm Web Portal is Live!
-</h1>
+
 
 <div class="container">
   <div class="center">
