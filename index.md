@@ -127,7 +127,9 @@ I conducted my undergraduate studies at the Colorado School of Mines and the Uni
 # Publications | [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=fYt4EYcAAAAJ&view_op=list_works&sortby=pubdate) 
 <div id="publications"></div>
 
-**Monopoli KR**, Sostek B, Gross K, Alterman J, Korkin D, Khvorova A. (2024) MODsiGNer: fully modified siRNA design application applying artificial intelligence with deep sequence feature embedding. *In preparation for submission to Nature Methods.*
+**Monopoli KR**, Sostek B, Gross K, Alterman J, Korkin D, Khvorova A. (2025) MODsiGNer: fully modified siRNA design application applying artificial intelligence with deep sequence feature embedding. *In preparation for submission to Nature Methods.*
+
+Davis SM, Hildebrand S, **Monopoli KR**, MacMillan H, Sousa J, Cooper D, Ly Socheata; Echeverria D, et al. (2025) Systematic Analysis of siRNA and mRNA Features Impacting Fully Chemically Modified siRNA Efficacy. *Nucleic Acids Research.*
 
 Weiss A, Gilbert JW, Flores IVR, Belgrad J, Ferguson C, Dogan EO, Wightman N, Mocarski K, Echeverria D, Summers A, Bramato B, McHugh N, Furgal R, Yamada N, Cooper D, **Monopoli KR**, Godinho BMDC, Hassler MR, Yamada K, Greer P, Henninger N, Brown RH Jr, Khvorova A. (2025) [RNAi-mediated silencing of SOD1 profoundly extends survival and functional outcomes in ALS mice](https://www.sciencedirect.com/science/article/pii/S1525001625003806). *Molecular Therapy*. 
 
@@ -136,8 +138,6 @@ Rivera Flores IV, **Monopoli KR**, Jackson S, Echeverria D, O'Reilly D, Brown RH
 Tang Q, Gross KY, Fakih HH, Jackson SO, UI Abideen MZ, **Monopoli KR**, Blanchard C, Bouix-Peter C, Portal T, Harris JE, Khvorova A, Alterman JF. (2024) [Multispecies-targeting siRNAs for the modulation of JAK1 in the skin](https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(24)00004-0). *Molecular Therapy Nucleic Acids*.
 
 **Monopoli KR**, Korkin D, Khvorova A. (2023) [Asymmetric trichotomous data partitioning enables development of predictive machine learning models using limited siRNA efficacy datasets](https://www.cell.com/molecular-therapy-family/nucleic-acids/pdf/S2162-2531(23)00160-9.pdf?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2162253123001609%3Fshowall%3Dtrue). *Molecular Therapy Nucleic Acids*.
-
-Davis SM, Hildebrand S, **Monopoli KR**, MacMillan H, Sousa J, Cooper D, Ly Socheata; Echeverria D, et al. (2023) Guidelines for Designing Therapeutic siRNA. *Under review with NAR.*
 
 Hariharan VN, Shin M, Chang CW, O’Reilly D, Biscans A, Yamada K, Guo Z, Somasundaran M, Tang Q, **Monopoli KR**, Krishnamurthy PM, Devi G, McHugh N, Cooper DA, Echeverria D, Cruz J, Chan IL, Liu P, Lim SY, McConnell J, Singh SP, Hildebrand S, Sousa J, Davis SM, Kennedy Z, Ferguson C, Godinho BMDC, Thillier Y, Caiazzi J, Ly S, Muhuri M, Kelly K, Humphries F, Cousineau A, Parsi KM, Li Q, Wang Y, Maehr R, Gao G, Korkin D, McDougall WM, Finberg RW, Fitzgerald KA, Wang JP, Watts JK, Khvorova A. (2023) [Divalent siRNAs are bioavailable in the lung and efficiently block SARS-CoV-2 infection](https://www.pnas.org/doi/10.1073/pnas.2219523120). *PNAS*. 
 
