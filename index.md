@@ -157,14 +157,21 @@ Romano FB, Rossi KC, Tang Y, Monopoli KR, Ross JL, Heuck AP. (2016) [Type 3 Secr
 
 
 # Talks
-Monopoli, K.R., Korkin, D., Khvorova, A. Trichotomous classification on small, limited datasets enables predictive model development for therapeutic small interfering RNA. Talk presented at the Intelligent Systems for Molecular Biology (ISMB); 2022 Jul 10; Madison, WI.[[recorded talk]](https://youtu.be/V1cT0HU0lJY)
 
-Monopoli, K.R., Korkin, D., Khvorova, A. Evaluation-centric method for extracting base preferences from siRNA prediction models identifies features consistent with established mechanisms and is adaptable to examine any machine learning model. Talk presented at the RNA Therapeutics Symposium; 2022 Jun 22; Worcester, MA. [[recorded talk]](https://youtu.be/f_4O-Cq9PG0)
+Monopoli, K.R., Sostek, B., Korkin, D., Khvorova, A.Advanced machine learning approach for accurate prediction of functional fully modified siRNAs. Talk presented at the Cold Spring Harbor Laboratory Nucleic Acid Therapies Meeting; 2025 Mar 23; Cold Spring Harbor, NY.
+
+
+Monopoli, K.R., Korkin, D., Khvorova, A. Trichotomous classification on small, limited datasets enables predictive model development for therapeutic small interfering RNA. Talk presented at the Intelligent Systems for Molecular Biology (ISMB); 2022 Jul 10; Madison, WI.[[recorded talk](https://youtu.be/V1cT0HU0lJY)]
+
+Monopoli, K.R., Korkin, D., Khvorova, A. Evaluation-centric method for extracting base preferences from siRNA prediction models identifies features consistent with established mechanisms and is adaptable to examine any machine learning model. Talk presented at the RNA Therapeutics Symposium; 2022 Jun 22; Worcester, MA. [[recorded talk](https://youtu.be/f_4O-Cq9PG0)]
 
 Monopoli, K.R., Korkin, D., Khvorova, A.  Methods to apply and evaluate machine learning models on limited biological datasets through the lens of siRNA design. Invited talk presented at Oligonucleotide Therapeutics Society Seminar; 2021 Oct.
 
 # Conference Posters
+Monopoli, K.R., Sostek, B., Korkin, D., Khvorova, A. [Advanced machine learning approach for accurate prediction of functional fully modified siRNAs](downloads/poster_kathryn_monopoli_rnatx_2025.pdf). Presented at the RNA Therapeutics Symposium; 2025 Jun 26; Worcester, MA. [[poster](downloads/poster_kathryn_monopoli_rnatx_2025.pdf)]
 
+
+Monopoli, K.R., Sostek, B., Korkin, D., Khvorova, A. Advanced machine learning approach for accurate prediction of functional fully modified siRNAs. Presented at the Oligonucleotide Therapeutics Society Annual Meeting; 2024 Oct 7; Montreal, QC.
 
 Monopoli, K.R., Korkin, D., Khvorova, A. Artificial intelligence-based nonlinear sequence environment encapsulation yields robust native context therapeutic siRNA potency prediction algorithm. Presented at the Oligonucleotide Therapeutics Society Annual Meeting; 2023 Oct 23; Barcelona, Spain.
 
