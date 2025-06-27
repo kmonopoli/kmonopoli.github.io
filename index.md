@@ -127,7 +127,6 @@ I conducted my undergraduate studies at the Colorado School of Mines and the Uni
 # Publications | [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=fYt4EYcAAAAJ&view_op=list_works&sortby=pubdate) 
 <div id="publications"></div>
 
-**Monopoli KR**, Sostek B, Gross K, Alterman J, Korkin D, Khvorova A. (2025) MODsiGNer: fully modified siRNA design application applying artificial intelligence with deep sequence feature embedding. *In preparation for submission to Nature Methods.*
 
 Davis SM, Hildebrand S, MacMillan H, **Monopoli KR**,  Sousa J, Cooper D, Ly Socheata; Echeverria D, et al. (2025) [Systematic analysis of siRNA and mRNA features impacting fully chemically modified siRNA efficacy](https://academic.oup.com/nar/article/53/12/gkaf479/8171869?login=false). *Nucleic Acids Research.*
 
@@ -151,7 +150,9 @@ Shmushkovich, T.,\* **Monopoli, K.R.,\*** Homsy, D., Leyfer, D., Betancur-Boisse
 
 Romano FB, Rossi KC, Tang Y, Monopoli KR, Ross JL, Heuck AP. (2016) [Type 3 Secretion translocators spontaneously assemble a hexadecameric transmembrane complex](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5995524/). *JBC.*
 
-*[[ORCID: 0000-0002-8615-4849]](https://orcid.org/0000-0002-8615-4849)*
+
+
+**Monopoli KR**, Sostek B, Gross K, Alterman J, Korkin D, Khvorova A. (2025) Appling advanced artificial intelligence methods to define features of functional therapeutic siRNAs. *In preparation.*
 
 # Patents
 <div id="patents"></div>
@@ -180,6 +181,8 @@ Monopoli, K.R., Korkin, D., Khvorova, A. Evaluation-centric method for extractin
 Monopoli, K.R., Korkin, D., Khvorova, A.  Methods to apply and evaluate machine learning models on limited biological datasets through the lens of siRNA design. Invited talk presented at Oligonucleotide Therapeutics Society Seminar; 2021 Oct.
 
 # Conference Posters
+
+
 Monopoli, K.R., Korkin, D., Khvorova, A. Artificial intelligence-based nonlinear sequence environment encapsulation yields robust native context therapeutic siRNA potency prediction algorithm. Presented at the Oligonucleotide Therapeutics Society Annual Meeting; 2023 Oct 23; Barcelona, Spain.
 
 Monopoli, K.R., Korkin, D., Khvorova, A. Developing accurate models for computing potency of therapeutically modified siRNAs using AI-based methods to encapsulate sequence environments. Presented at the Nature Conference - Cracking the Code: The Dawn of Nucleic Acid Medicines; 2023 Oct 19; Worcester, MA.
