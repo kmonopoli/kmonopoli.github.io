@@ -154,24 +154,7 @@ Romano FB, Rossi KC, Tang Y, Monopoli KR, Ross JL, Heuck AP. (2016) [Type 3 Secr
 
 **Monopoli KR**, Sostek B, Gross K, Alterman J, Korkin D, Khvorova A. (2025) Appling advanced artificial intelligence methods to define features of functional therapeutic siRNAs. *In preparation.*
 
-# Patents
-<div id="patents"></div>
 
-Oligonucleotides for MAPT Modulation – US Utility Patent Application No. 62/991,405, 3/18/2020  
-Oligonucleotides for SNCA Modulation – US Utility Patent Application No. 62/991,406, 3/18/2020  
-Oligonucleotides for MSH3 Modulation* – US Patent Application No. 63/012,603, 4/20/2020  
-Oligonucleotides for MAPT Modulation – US Utility Patent Application No. 63/071,106, 8/27/2020  
-Oligonucleotides for SNCA Modulation – US Utility Patent Application No. 63/071,115, 8/27/2020  
-Oligonucleotides for SARS-CoV-2 Modulation – US Utility Patent Application No. 63/031,222, 5/28/2020  
-Oligonucleotides for SARS-CoV-2 Modulation – US Utility Patent Application No. 63/084,817, 9/29/2020  
-Oligonucleotides for MAPT Modulation* – US Patent Application No. 17/204,480, 3/17/2021  
-Oligonucleotides for MAPT Modulation – Intl Patent Application No. PCT/US2021/022688, 3/17/2021  
-Oligonucleotides for SNCA Modulation* – US Patent Application No. 17/204,483, 3/17/2021  
-Oligonucleotides for SNCA Modulation – Intl Patent Application No. PCT/US2021/022748, 3/17/2021  
-Oligonucleotides for SARS-CoV-2 Modulation – US Patent Application No. 17/333,839, 5/28/2021  
-Oligonucleotides for SARS-CoV-2 Modulation – Intl Patent App No. PCT/US2021/035002, 5/28/2021  
-
-\**Licensed to Atalanta Therapeutics*
 
 # Talks
 Monopoli, K.R., Korkin, D., Khvorova, A. Trichotomous classification on small, limited datasets enables predictive model development for therapeutic small interfering RNA. Talk presented at the Intelligent Systems for Molecular Biology (ISMB); 2022 Jul 10; Madison, WI.[[recorded talk]](https://youtu.be/V1cT0HU0lJY)
@@ -202,6 +185,25 @@ Monopoli, K.R., Romano, F.B., Heuck, A.P. Structural Studies of the Membrane Bou
 Monopoli, K.R., Romano, F.B., Heuck, A.P. Characterization of the Pseudomonas aeruginosa Type III Secretion Translocon in Model Membranes. Poster presented at the Massachusetts Undergraduate Statewide Research Conference; 2014 April 25; Amherst, MA.
 
 Monopoli, K.R., Pearse, B.R. Generation of a repertoire of antibodies for clinical assay development by phage display. Poster presented at Biogen Intern Poster Session; 2013 Aug 22; Cambridge, MA.  
+
+# Patents
+<div id="patents"></div>
+
+Oligonucleotides for MAPT Modulation – US Utility Patent Application No. 62/991,405, 3/18/2020  
+Oligonucleotides for SNCA Modulation – US Utility Patent Application No. 62/991,406, 3/18/2020  
+Oligonucleotides for MSH3 Modulation* – US Patent Application No. 63/012,603, 4/20/2020  
+Oligonucleotides for MAPT Modulation – US Utility Patent Application No. 63/071,106, 8/27/2020  
+Oligonucleotides for SNCA Modulation – US Utility Patent Application No. 63/071,115, 8/27/2020  
+Oligonucleotides for SARS-CoV-2 Modulation – US Utility Patent Application No. 63/031,222, 5/28/2020  
+Oligonucleotides for SARS-CoV-2 Modulation – US Utility Patent Application No. 63/084,817, 9/29/2020  
+Oligonucleotides for MAPT Modulation* – US Patent Application No. 17/204,480, 3/17/2021  
+Oligonucleotides for MAPT Modulation – Intl Patent Application No. PCT/US2021/022688, 3/17/2021  
+Oligonucleotides for SNCA Modulation* – US Patent Application No. 17/204,483, 3/17/2021  
+Oligonucleotides for SNCA Modulation – Intl Patent Application No. PCT/US2021/022748, 3/17/2021  
+Oligonucleotides for SARS-CoV-2 Modulation – US Patent Application No. 17/333,839, 5/28/2021  
+Oligonucleotides for SARS-CoV-2 Modulation – Intl Patent App No. PCT/US2021/035002, 5/28/2021  
+
+\**Licensed to Atalanta Therapeutics*
 
 ## Theses
 Monopoli, K.R. Advised by Prof. Alejandro Heuck. “Characterization of the Reconstituted and Native Pseudomonas aeruginosa Type III Secretion System Translocon.” Master's Thesis. University of Massachusetts, Amherst, September 2015. 
