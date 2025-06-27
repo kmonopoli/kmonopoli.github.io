@@ -94,7 +94,7 @@
 
 
 <div class="tip" markdown="1">
-##  [Contact](mailto:krmonopoli@gmail.com)  •  [Google Scholar](https://scholar.google.com/citations?hl=en&user=fYt4EYcAAAAJ&view_op=list_works&sortby=pubdate) • [GitHub](https://github.com/kmonopoli)  •  [LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)  •  [CV](downloads/cv_kathryn_monopoli.pdf)
+##  [CV](downloads/cv_kathryn_monopoli.pdf)  •  [Contact](mailto:krmonopoli@gmail.com)  •  [Google Scholar](https://scholar.google.com/citations?hl=en&user=fYt4EYcAAAAJ&view_op=list_works&sortby=pubdate) • [GitHub](https://github.com/kmonopoli)  •  [LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)
 </div>
 
 <img src="/images/photo_3.jpg" alt="image" width="300" align="left" style="display: block;  margin-right: 5px; margin: 5px;" />
