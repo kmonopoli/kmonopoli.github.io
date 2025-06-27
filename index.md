@@ -129,7 +129,7 @@ I conducted my undergraduate studies at the Colorado School of Mines and the Uni
 
 **Monopoli KR**, Sostek B, Gross K, Alterman J, Korkin D, Khvorova A. (2025) MODsiGNer: fully modified siRNA design application applying artificial intelligence with deep sequence feature embedding. *In preparation for submission to Nature Methods.*
 
-Davis SM, Hildebrand S, **Monopoli KR**, MacMillan H, Sousa J, Cooper D, Ly Socheata; Echeverria D, et al. (2025) Systematic Analysis of siRNA and mRNA Features Impacting Fully Chemically Modified siRNA Efficacy. *Nucleic Acids Research.*
+Davis SM, Hildebrand S, MacMillan H, **Monopoli KR**,  Sousa J, Cooper D, Ly Socheata; Echeverria D, et al. (2025) [Systematic analysis of siRNA and mRNA features impacting fully chemically modified siRNA efficacy](https://academic.oup.com/nar/article/53/12/gkaf479/8171869?login=false). *Nucleic Acids Research.*
 
 Weiss A, Gilbert JW, Flores IVR, Belgrad J, Ferguson C, Dogan EO, Wightman N, Mocarski K, Echeverria D, Summers A, Bramato B, McHugh N, Furgal R, Yamada N, Cooper D, **Monopoli KR**, Godinho BMDC, Hassler MR, Yamada K, Greer P, Henninger N, Brown RH Jr, Khvorova A. (2025) [RNAi-mediated silencing of SOD1 profoundly extends survival and functional outcomes in ALS mice](https://www.sciencedirect.com/science/article/pii/S1525001625003806). *Molecular Therapy*. 
 
