@@ -95,9 +95,9 @@
   
 .button:hover {
   background-color: white;
-  border: 2px solid #04AA6D;
+  border: 2px solid #FF7B45; /*#04AA6D;*/
   border-radius: 8px;
-  color: #04AA6D;
+  color: #FF7B45; /*#04AA6D;*/
 }
 
 @media (max-width: 480px) {
