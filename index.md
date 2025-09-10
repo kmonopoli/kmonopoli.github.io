@@ -56,16 +56,25 @@
   border-radius: 8px;
   color: white;
   padding: 15px 26px;
+  
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 20px;
+  font-size: 1rem;          /* scales with root font size */
+  
   font-weight: bold;
   margin: 4px 2px;
   cursor: pointer;
   margin: 0;  
   transition-duration: 0.4s;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 4px 8px 0 rgba(0,0,0,0.19);
+
+  display: inline-block;
+  
+  white-space: normal;      /* allow wrapping */
+  max-width: 100%;          /* don’t overflow screen */
+  line-height: 1.3em;
 
 }
 
