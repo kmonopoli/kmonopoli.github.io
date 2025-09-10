@@ -57,8 +57,10 @@
 }
   
 .button {
-  background-color: #04AA6D;
-  border: 2px solid #04AA6D;
+  /*background-color: #04AA6D;
+  border: 2px solid #04AA6D; */
+  background-color: #FF7B45;
+  border: 2px solid #FF7B45;
   border-radius: 8px;
   color: white;
   padding: 15px 26px;
