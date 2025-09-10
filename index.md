@@ -60,12 +60,12 @@
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 20px;
-  font-size: 1rem;          /* scales with root font size */
+  /*font-size: 20px; */
+  font-size: 1.5rem;          /* scales with root font size */
   
   font-weight: bold;
 
-  margin-top: 2px;
+  margin-top: 0px;
   margin-bottom: 4px;
   margin-left: 2px;
   margin-right: 2px;
