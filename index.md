@@ -87,8 +87,16 @@
 </head>
 
   
+<div class="container">
+  <div class="center">
+    <a href="http://sirna-frontend.s3-website.us-east-2.amazonaws.com/search">
+      <button class="button">Algorithm to<br>Design Therapeutic siRNAs</button>
+    </a>
+  </div>
+</div>
 
 
+<!--
 <div class="container">
   <div class="center">
     <a href="http://sirna-frontend.s3-website.us-east-2.amazonaws.com/search">
@@ -96,7 +104,7 @@
   </a>
   </div>
 </div>
-
+-->
 
 
 <div class="tip" markdown="1">
