@@ -92,15 +92,6 @@
 </div>
 
 
-<!--
-<div class="container">
-  <div class="center">
-    <a href="http://sirna-frontend.s3-website.us-east-2.amazonaws.com/search">
-      <input type="button" value="Algorithm to Design Therapeutic siRNAs" class="button multiline">
-  </a>
-  </div>
-</div>
--->
 
 
 <div class="tip" markdown="1">
