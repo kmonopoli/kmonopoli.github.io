@@ -71,8 +71,8 @@
   
   font-weight: bold;
 
-  margin-top: 0px;
-  margin-bottom: 20px;
+  margin-top: 5px;
+  margin-bottom: 40px;
   margin-left: 2px;
   margin-right: 2px;
   
