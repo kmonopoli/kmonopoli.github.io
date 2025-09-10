@@ -98,7 +98,7 @@
 
 @media (max-width: 480px) {
   .button {
-    font-size: 0.9rem;
+    font-size: 1.2rem;
     padding: 8px 12px;
   }
 }
