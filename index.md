@@ -38,7 +38,7 @@
   h3 {
     text-align: center; 
     font-style: none; 
-    font-weight: bold; 
+    font-weight: 900; /*bold;*/ 
     font-family: Century Gothic, sans-serif;
   }
 .container { 
