@@ -83,7 +83,7 @@
 
   display: inline-block;
   
-  /*white-space: normal;    */  /* allow wrapping */
+  white-space: no-wrap;      /* allow wrapping */
   max-width: 100%;          /* don’t overflow screen */
   line-height: 1.3em;
 
