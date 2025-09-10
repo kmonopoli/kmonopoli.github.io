@@ -64,7 +64,12 @@
   font-size: 1rem;          /* scales with root font size */
   
   font-weight: bold;
-  margin: 4px 2px;
+
+  margin-top: 2px;
+  margin-bottom: 4px;
+  margin-left: 2px;
+  margin-right: 2px;
+  
   cursor: pointer;
   margin: 0;  
   transition-duration: 0.4s;
