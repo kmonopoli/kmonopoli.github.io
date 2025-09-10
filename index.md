@@ -66,7 +66,7 @@
   font-weight: bold;
 
   margin-top: 0px;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
   margin-left: 2px;
   margin-right: 2px;
   
