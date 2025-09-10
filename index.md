@@ -76,11 +76,7 @@
   color: #04AA6D;
 }
 
-.button.multiline {
-  white-space: normal;  /* allow wrapping */
-  line-height: 1.2em;
-  width: 200px; /* adjust so text wraps naturally */
-}
+
 
 </style>
 
