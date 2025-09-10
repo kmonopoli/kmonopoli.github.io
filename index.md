@@ -34,7 +34,13 @@
     font-weight: bold; 
     font-family: Century Gothic, sans-serif;
   }
-
+  
+  h3 {
+    text-align: center; 
+    font-style: none; 
+    font-weight: bold; 
+    font-family: Century Gothic, sans-serif;
+  }
 .container { 
   height: 100px;
   position: relative;
@@ -65,7 +71,7 @@
   
   font-weight: bold;
 
-  margin-top: 0px;
+  margin-top: 10px;
   margin-bottom: 10px;
   margin-left: 2px;
   margin-right: 2px;
