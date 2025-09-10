@@ -56,7 +56,7 @@
   transform: translate(-50%, -50%);
 }
   
-.button {
+/*.button {
   background-color: #04AA6D;
   border: 2px solid #04AA6D;
   border-radius: 8px;
@@ -88,7 +88,33 @@
   line-height: 1.3em;
 
 }
+*/
 
+.button {
+  background-color: #04AA6D;
+  border: 2px solid #04AA6D;
+  border-radius: 8px;
+  color: white;
+  padding: 15px 26px;
+  
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.2rem;          
+  font-weight: bold;
+
+  margin: 10px 2px; /* shorthand for top/bottom and left/right */
+  
+  cursor: pointer;
+  transition-duration: 0.4s;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 4px 8px 0 rgba(0,0,0,0.19);
+
+  line-height: 1.3em;
+
+  /* 👇 key part */
+  white-space: nowrap;     /* prevent automatic wrapping */
+}
+  
 .button:hover {
   background-color: white;
   border: 2px solid #04AA6D;
