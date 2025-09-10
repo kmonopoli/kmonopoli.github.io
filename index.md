@@ -85,6 +85,12 @@
   color: #04AA6D;
 }
 
+@media (max-width: 480px) {
+  .button {
+    font-size: 0.9rem;
+    padding: 8px 12px;
+  }
+}
 
 
 </style>
