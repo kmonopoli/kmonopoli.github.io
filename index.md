@@ -57,10 +57,10 @@
 }
   
 .button {
-  background-color: #FF7B45;/*#04AA6D;*/
-  border: 2px solid #FF7B45; /*#04AA6D;*/
+  background-color: #FF624B; /*#FF7B45;#04AA6D;*/
+  border: 2px solid #FF624B; /*#FF7B45; #04AA6D;*/
   border-radius: 8px;
-  color: black; /*white;*/
+  color: white;
   padding: 15px 26px;
   
   text-align: center;
@@ -93,9 +93,9 @@
   
 .button:hover {
   background-color: white;
-  border: 2px solid #FF7B45; /*#04AA6D;*/
+  border: 2px solid #FF624B; /*#FF7B45;#04AA6D;*/
   border-radius: 8px;
-  color: #FF7B45; /*#04AA6D;*/
+  color: #FF624B; /*#FF7B45;#04AA6D;*/
 }
 
 @media (max-width: 480px) {
