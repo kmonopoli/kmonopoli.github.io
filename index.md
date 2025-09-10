@@ -61,17 +61,17 @@
   text-decoration: none;
   display: inline-block;
   /*font-size: 20px; */
-  font-size: 1.5rem;          /* scales with root font size */
+  font-size: 1.2rem;          /* scales with root font size */
   
   font-weight: bold;
 
   margin-top: 0px;
-  margin-bottom: 4px;
+  margin-bottom: 8px;
   margin-left: 2px;
   margin-right: 2px;
   
   cursor: pointer;
-  margin: 0;  
+ 
   transition-duration: 0.4s;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 4px 8px 0 rgba(0,0,0,0.19);
 
