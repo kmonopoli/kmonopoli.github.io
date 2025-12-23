@@ -115,6 +115,17 @@
     padding: 8px 12px;
   }
 }
+  .button-logo-only {
+  padding: 16px 24px;        /* space around logo */
+}
+
+.button-logo-only img {
+  height: 64px;              /* main control knob */
+  width: auto;
+  max-width: 100%;
+  display: block;
+}
+
 
   
 
@@ -127,12 +138,10 @@
   <div class="center">
     
  <a href="https://sirna.ai/" style="text-decoration: none;">
-  <button class="button button-logo">
-    <img src="/images/logo_sirna_ai_white_link.png" alt="siRNA.ai logo">
-    <span>siRNA.ai Therapeutic Design Algorithm</span>
+  <button class="button button-logo-only">
+    <img src="/images/logo_sirna_ai_white_link.png" alt="siRNA.ai Therapeutic Design Algorithm">
   </button>
 </a>
-
     
   </div>
 </div>
