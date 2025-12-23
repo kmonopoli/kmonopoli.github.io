@@ -57,7 +57,7 @@
 }
   
 .button {
-  background-color: #FF624B; /*#FF7B45;#04AA6D;*/
+  background-color: white; /*#FF7B45;#04AA6D;*/
   border: 2px solid #FF624B; /*#FF7B45; #04AA6D;*/
   border-radius: 8px;
   color: white;
@@ -104,7 +104,7 @@
 }
 
 .button-logo img {
-  height: 36px;           /* controls logo size */
+  height: 100px;           /* controls logo size */
   width: auto;
 }
 
