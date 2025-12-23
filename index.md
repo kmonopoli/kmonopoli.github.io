@@ -127,11 +127,14 @@
 
 <img src="/images/photo_3.jpg" alt="image" width="300" align="left" style="display: block;  margin-right: 5px; margin: 5px;" />
 
-I am a Ph.D. candidate studying Bioinformatics in the [Quantitative and Computational Biosciences & Bioengineering](https://umassmed.edu/es/gsbs/current-students/computational-biomedical-sciences-and-engineering/) Joint Graduate Program at University of Massachusetts Medical School and Worcester Polytechnic Institute. I am advised by [Anastasia Khvorova](https://www.umassmed.edu/khvorovalab/) and [Dmitry Korkin](http://korkinlab.org). I transitioned from the bench where I studied membrane protein biophysics, to computational research where I am applying machine learning techniques to study small interfering RNAs (siRNAs).
+I am a computational biologist and machine learning scientist working in RNA therapeutics. I completed my Ph.D. in Bioinformatics and Machine Learning at the [RNA Therapeutics Institute](https://www.umassmed.edu/rti/) through the Quantitative and Computational Biosciences & Bioengineering Joint Graduate Program at University of Massachusetts Medical School and Worcester Polytechnic Institute, where I was advised by [Anastasia Khvorova](https://www.umassmed.edu/khvorovalab/) and [Dmitry Korkin](http://korkinlab.org). I currently work in industry applying machine learning methods to RNA based therapeutic discovery.
 
-My research bridges biology with computer science to advance therapeutic development and, more generally, expand our understanding of biological processes. My primary focus is on applying machine learning techniques to probe the siRNA gene silencing mechanism and develop siRNA sequence design algorithms. I am passionate about increasing access to advanced computational algorithms for life science researchers without computational training, through developing easy-to-use computational tools that do not require any computer programming knowledge. 
+I transitioned from experimental biophysics, where I studied membrane protein structure and function, to computational research focused on small interfering RNAs (siRNAs). My work bridges biology and computer science to advance oligonucleotide therapeutics, with an emphasis on modeling RNA sequence activity, understanding gene silencing mechanisms, and developing data driven RNA design algorithms. 
 
-I conducted my undergraduate studies at the Colorado School of Mines and the University of Massachusetts Amherst where I completed my B.S. *summa cum laude*. I completed my M.S. in Biochemistry in the Laboratory of [Alejandro Heuck](https://people.biochem.umass.edu/heuck/research.html) at the University of Massachusetts Amherst. 
+I am passionate about increasing access to advanced computational methods for life science researchers by building intuitive, user focused tools that do not require programming expertise. 
+
+I conducted my undergraduate studies at the Colorado School of Mines and the University of Massachusetts Amherst, where I completed my B.S. summa cum laude. I earned my M.S. in Biochemistry in the laboratory of Alejandro Heuck at the University of Massachusetts Amherst.
+ 
 
 
 # Experience
@@ -241,6 +244,8 @@ Oligonucleotides for SARS-CoV-2 Modulation – Intl Patent App No. PCT/US2021/03
 \**Licensed to Atalanta Therapeutics*
 
 ## Theses
+Monopoli, K.R. Advised by Prof. Anastasia Khvorova and Prof. Dmitry Korkin. “Machine learning and artificial intelligence approaches for the design of potent therapeutic siRNAs.” Doctoral (PhD) Dissertation. University of Massachusetts Chan Medical School (RNA Therapeutics Insitute) Worcester, September 2025. 
+
 Monopoli, K.R. Advised by Prof. Alejandro Heuck. “Characterization of the Reconstituted and Native Pseudomonas aeruginosa Type III Secretion System Translocon.” Master's Thesis. University of Massachusetts, Amherst, September 2015. 
 
 Monopoli, K.R. Advised by Prof. Alejandro Heuck. “Characterization of the Pseudomonas aeruginosa Type III Secretion System Translocon in Model Membranes.” Undergraduate Thesis. University of Massachusetts, Amherst, May 2014. 
