@@ -116,11 +116,11 @@
   }
 }
   .button-logo-only {
-  padding: 2px 2px;        /* space around logo */
+  padding: 0px 0px;        /* space around logo */
 }
 
 .button-logo-only img {
-  height: 64px;              /* main control knob */
+  height: 300px;              /* main control knob */
   width: auto;
   max-width: 100%;
   display: block;
