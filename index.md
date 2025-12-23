@@ -125,9 +125,15 @@
   
 <div class="container">
   <div class="center">
-    <a href="https://sirna.ai/">
-      <button class="button">Algorithm to Design Therapeutic siRNAs</button>
-    </a>
+    
+ <a href="https://sirna.ai/" style="text-decoration: none;">
+  <button class="button button-logo">
+    <img src="/images/logo_sirna_ai_white_link.png" alt="siRNA.ai logo">
+    <span>siRNA.ai Therapeutic Design Algorithm</span>
+  </button>
+</a>
+
+    
   </div>
 </div>
 
