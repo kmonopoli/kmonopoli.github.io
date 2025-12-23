@@ -92,15 +92,15 @@
 
   
 .button:hover {
-  background-color: white;
-  border: 2px solid #FF624B; /*#FF7B45;#04AA6D;*/
+  background-color: #d6fffe;
+  border: 4px solid #FF624B; /*#FF7B45;#04AA6D;*/
   border-radius: 8px;
-  color: #FF624B; /*#FF7B45;#04AA6D;*/
+  color: white; /*#FF7B45;#04AA6D;*/
 }
   .button-logo {
   display: inline-flex;
   align-items: center;
-  gap: 12px;              /* space between logo and text */
+  gap: 2px;              /* space between logo and text */
 }
 
 .button-logo img {
@@ -116,7 +116,7 @@
   }
 }
   .button-logo-only {
-  padding: 16px 24px;        /* space around logo */
+  padding: 2px 2px;        /* space around logo */
 }
 
 .button-logo-only img {
