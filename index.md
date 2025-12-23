@@ -120,7 +120,7 @@
 }
 
 .button-logo-only img {
-  height: 300px;              /* main control knob */
+  height: 100px;              /* main control knob */
   width: auto;
   max-width: 100%;
   display: block;
