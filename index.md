@@ -97,6 +97,17 @@
   border-radius: 8px;
   color: #FF624B; /*#FF7B45;#04AA6D;*/
 }
+  .button-logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;              /* space between logo and text */
+}
+
+.button-logo img {
+  height: 36px;           /* controls logo size */
+  width: auto;
+}
+
 
 @media (max-width: 480px) {
   .button {
@@ -105,6 +116,7 @@
   }
 }
 
+  
 
 </style>
 
@@ -122,7 +134,7 @@
 
 
 <div class="tip" markdown="1">
-###  [CV](downloads/cv_kathryn_monopoli.pdf)  •  [Contact](mailto:krmonopoli@gmail.com)  •  [Google Scholar](https://scholar.google.com/citations?hl=en&user=fYt4EYcAAAAJ&view_op=list_works&sortby=pubdate) • [GitHub](https://github.com/kmonopoli)  •  [LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)
+###  [Resume](downloads/cv_kathryn_monopoli.pdf)  •  [Contact](mailto:krmonopoli@gmail.com)  •  [Google Scholar](https://scholar.google.com/citations?hl=en&user=fYt4EYcAAAAJ&view_op=list_works&sortby=pubdate) • [GitHub](https://github.com/kmonopoli)  •  [LinkedIn](https://www.linkedin.com/in/kathrynmonopoli/)
 </div>
 
 <img src="/images/photo_3.jpg" alt="image" width="300" align="left" style="display: block;  margin-right: 5px; margin: 5px;" />
