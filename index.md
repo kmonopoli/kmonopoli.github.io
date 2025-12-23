@@ -126,6 +126,16 @@
   display: block;
 }
 
+  .button {
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.25);
+}
+
+
 
   
 
