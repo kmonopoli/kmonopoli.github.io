@@ -189,7 +189,7 @@ I conducted my undergraduate studies at the Colorado School of Mines and the Uni
 **Intern** – Antibody Discovery  
 &nbsp;&nbsp;&nbsp;Biogen  
 
-
+[slides](downloads/assays.pdf)
 
 
 # Publications | [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=fYt4EYcAAAAJ&view_op=list_works&sortby=pubdate) 
